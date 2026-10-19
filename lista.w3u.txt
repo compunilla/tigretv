@@ -9,9 +9,9 @@
       "name": "Deportes",
       "stations": [
         {
-          "name": "Descarga mas listas",
-          "image": "https://i.ibb.co/ynyQvxg3/more.png",
-          "url": "https://linktr.ee/ILOVEMYTV",
+          "name": "YouTube Compunilla",
+          "image": "https://raw.githubusercontent.com/compunilla/tigretv/refs/heads/main/lista_clean.w3u",
+          "url": "https://www.youtube.com/@Compunilla",
           "license_type": "website"
         },
         {
