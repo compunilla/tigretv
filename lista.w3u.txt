@@ -2,7 +2,7 @@
   "name": "lista.w3u",
   "image": "https://github.com/compunilla/tigretv/blob/b1f7d279379b7f2b4e2ca2d1702810f9773731ab/logo_tigre.png",
   "author": "Compunilla",
-  "url": "https://raw.githubusercontent.com/ENZO800-ui/OndoTv.apk/refs/heads/main/OndoTv.w3u",
+  "url": "https://raw.githubusercontent.com/compunilla/tigretv/refs/heads/main/lista.w3u.txt",
   "info": "Tigre Explotado: AHORA SÍ",
   "groups": [
     {
