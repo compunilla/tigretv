@@ -1,90 +1,879 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ARG: C5N" tvg-logo="https://docdog.top/logo/countries//argentina/c5n-ar.png" group-title="Noticias",ARG: C5N
-http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4728
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 26" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL26.png" group-title="Noticias",ARG: CANAL 26
-http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4731
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CRONICA" tvg-logo="https://docdog.top/logo/countries/argentina/cronica-hd-ar.png" group-title="Noticias",ARG: CRONICA
-http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4746
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX NEWS" tvg-logo="https://docdog.top/logo/countries/argentina/foxnews.png" group-title="Noticias",ARG: FOX NEWS
-http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4763
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: LN" tvg-logo="https://docdog.top/logo/countries/argentina/LN.jpg" group-title="Noticias",ARG: LN
-http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4781
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TELESUR" tvg-logo="https://docdog.top/logo/countries/argentina/telesur.png" group-title="Noticias",ARG: TELESUR
-http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4810
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DEPORTV FHD" tvg-logo="https://docdog.top/logo/countries/argentina/DEPORTVF.png" group-title="Deportes",ARG: DEPORTV FHD
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DEPORTV FHD" tvg-logo="https://docdog.top/logo/countries/argentina/DEPORTVF.png" group-title="ARGENTINA | Deportes",ARG: DEPORTV FHD
 http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4747
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports.png" group-title="Deportes",ARG: DIRECTV SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports.png" group-title="ARGENTINA | Deportes",ARG: DIRECTV SPORTS
 http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4748
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS +" tvg-logo="https://docdog.top/logo/countries/argentina/DIRECTVSPORTS+.png" group-title="Deportes",ARG: DIRECTV SPORTS +
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS +" tvg-logo="https://docdog.top/logo/countries/argentina/DIRECTVSPORTS+.png" group-title="ARGENTINA | Deportes",ARG: DIRECTV SPORTS +
 http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4749
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS 2" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports2.png" group-title="Deportes",ARG: DIRECTV SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS 2" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports2.png" group-title="ARGENTINA | Deportes",ARG: DIRECTV SPORTS 2
 http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4750
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="Deportes",ARG: ESPN
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="ARGENTINA | Deportes",ARG: ESPN
 http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4757
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2" tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="Deportes",ARG: ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2" tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="ARGENTINA | Deportes",ARG: ESPN 2
 http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4758
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 3" tvg-logo="https://docdog.top/logo/countries//argentina/espn-3-ar.png" group-title="Deportes",ARG: ESPN 3
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 3" tvg-logo="https://docdog.top/logo/countries//argentina/espn-3-ar.png" group-title="ARGENTINA | Deportes",ARG: ESPN 3
 http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4759
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 1" tvg-logo="https://asiagrandiptv.us/logo/foxsports.png" group-title="Deportes",ARG: FOX SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 1" tvg-logo="https://asiagrandiptv.us/logo/foxsports.png" group-title="ARGENTINA | Deportes",ARG: FOX SPORTS 1
 http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4764
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 2" tvg-logo="https://asiagrandiptv.us/logo/foxsport2.png" group-title="Deportes",ARG: FOX SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 2" tvg-logo="https://asiagrandiptv.us/logo/foxsport2.png" group-title="ARGENTINA | Deportes",ARG: FOX SPORTS 2
 http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4765
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 3" tvg-logo="https://docdog.top/logo/countries//argentina/fox-sports-3-ar.png" group-title="Deportes",ARG: FOX SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 3" tvg-logo="https://docdog.top/logo/countries//argentina/fox-sports-3-ar.png" group-title="ARGENTINA | Deportes",ARG: FOX SPORTS 3
 http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4766
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS PREMIUM" tvg-logo="https://docdog.top/logo/countries//argentina/fox-sports-premium-ar.png" group-title="Deportes",ARG: FOX SPORTS PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS PREMIUM" tvg-logo="https://docdog.top/logo/countries//argentina/fox-sports-premium-ar.png" group-title="ARGENTINA | Deportes",ARG: FOX SPORTS PREMIUM
 http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4767
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: GOLF CHANNEL" tvg-logo="https://docdog.top/logo/countries//argentina/golf-channel-ar.png" group-title="Deportes",ARG: GOLF CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="ARG: GOLF CHANNEL" tvg-logo="https://docdog.top/logo/countries//argentina/golf-channel-ar.png" group-title="ARGENTINA | Deportes",ARG: GOLF CHANNEL
 http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4771
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: MAX UP" tvg-logo="https://docdog.top/logo/countries/argentina/maxup.png" group-title="Otros",ARG: MAX UP
+#EXTINF:-1 tvg-id="" tvg-name="ARG: MAX UP" tvg-logo="https://docdog.top/logo/countries/argentina/maxup.png" group-title="ARGENTINA | Noticias",ARG: MAX UP
 http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4785
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: METRO" tvg-logo="https://docdog.top/logo/countries//argentina/metro-ar.png" group-title="Otros",ARG: METRO
+#EXTINF:-1 tvg-id="" tvg-name="ARG: METRO" tvg-logo="https://docdog.top/logo/countries//argentina/metro-ar.png" group-title="ARGENTINA | Noticias",ARG: METRO
 http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4786
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: MTV HITS" tvg-logo="https://docdog.top/logo/countries//argentina/mtv-hits-ar.png" group-title="Otros",ARG: MTV HITS
+#EXTINF:-1 tvg-id="" tvg-name="ARG: MTV HITS" tvg-logo="https://docdog.top/logo/countries//argentina/mtv-hits-ar.png" group-title="ARGENTINA | Noticias",ARG: MTV HITS
 http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4788
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: PARAMOUNT" tvg-logo="https://docdog.top/logo/countries//argentina/paramount-network-ar.png" group-title="Otros",ARG: PARAMOUNT
+#EXTINF:-1 tvg-id="" tvg-name="ARG: PARAMOUNT" tvg-logo="https://docdog.top/logo/countries//argentina/paramount-network-ar.png" group-title="ARGENTINA | Noticias",ARG: PARAMOUNT
 http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4795
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: SPACE" tvg-logo="https://docdog.top/logo/countries//argentina/space-ar.png" group-title="Otros",ARG: SPACE
+#EXTINF:-1 tvg-id="" tvg-name="ARG: SPACE" tvg-logo="https://docdog.top/logo/countries//argentina/space-ar.png" group-title="ARGENTINA | Noticias",ARG: SPACE
 http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4802
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: SYFY" tvg-logo="https://docdog.top/logo/countries//argentina/syfy-ar.png" group-title="Otros",ARG: SYFY
+#EXTINF:-1 tvg-id="" tvg-name="ARG: SYFY" tvg-logo="https://docdog.top/logo/countries//argentina/syfy-ar.png" group-title="ARGENTINA | Noticias",ARG: SYFY
 http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4804
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TBS VERY FUNNY" tvg-logo="https://docdog.top/logo/countries//argentina/tbs-ar.png" group-title="Otros",ARG: TBS VERY FUNNY
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TBS VERY FUNNY" tvg-logo="https://docdog.top/logo/countries//argentina/tbs-ar.png" group-title="ARGENTINA | Noticias",ARG: TBS VERY FUNNY
 http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4805
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEFE" tvg-logo="https://docdog.top/logo/countries//argentina/telefe-ar.png" group-title="Otros",ARG: TELEFE
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEFE" tvg-logo="https://docdog.top/logo/countries//argentina/telefe-ar.png" group-title="ARGENTINA | Noticias",ARG: TELEFE
 http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4807
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEVISION PUBLICA" tvg-logo="https://docdog.top/logo/countries/argentina/televisionpublica.png" group-title="Otros",ARG: TELEVISION PUBLICA
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEVISION PUBLICA" tvg-logo="https://docdog.top/logo/countries/argentina/televisionpublica.png" group-title="ARGENTINA | Noticias",ARG: TELEVISION PUBLICA
 http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4811
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT" tvg-logo="https://docdog.top/logo/countries//argentina/tnt-ar.png" group-title="Otros",ARG: TNT
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT" tvg-logo="https://docdog.top/logo/countries//argentina/tnt-ar.png" group-title="ARGENTINA | Noticias",ARG: TNT
 http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4813
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TV PUBLICA" tvg-logo="https://docdog.top/logo/countries/argentina/tvpublica.png" group-title="Otros",ARG: TV PUBLICA
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TV PUBLICA" tvg-logo="https://docdog.top/logo/countries/argentina/tvpublica.png" group-title="ARGENTINA | Noticias",ARG: TV PUBLICA
 http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4818
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: WARNER" tvg-logo="https://docdog.top/logo/countries//argentina/warner-channel-ar.png" group-title="Otros",ARG: WARNER
+#EXTINF:-1 tvg-id="" tvg-name="ARG: WARNER" tvg-logo="https://docdog.top/logo/countries//argentina/warner-channel-ar.png" group-title="ARGENTINA | Noticias",ARG: WARNER
 http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4826
+#EXTINF:-1 tvg-id="" tvg-name="ARG: C5N" tvg-logo="https://docdog.top/logo/countries//argentina/c5n-ar.png" group-title="ARGENTINA | Noticias",ARG: C5N
+http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4728
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 26" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL26.png" group-title="ARGENTINA | Noticias",ARG: CANAL 26
+http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4731
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CRONICA" tvg-logo="https://docdog.top/logo/countries/argentina/cronica-hd-ar.png" group-title="ARGENTINA | Noticias",ARG: CRONICA
+http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4746
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX NEWS" tvg-logo="https://docdog.top/logo/countries/argentina/foxnews.png" group-title="ARGENTINA | Noticias",ARG: FOX NEWS
+http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4763
+#EXTINF:-1 tvg-id="" tvg-name="ARG: LN" tvg-logo="https://docdog.top/logo/countries/argentina/LN.jpg" group-title="ARGENTINA | Noticias",ARG: LN
+http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4781
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TELESUR" tvg-logo="https://docdog.top/logo/countries/argentina/telesur.png" group-title="ARGENTINA | Noticias",ARG: TELESUR
+http://31.43.191.125:8080/VIP0190172512222481/91737396037592/4810
+#EXTINF:-1 tvg-id="ABCtv.py@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Abc_color.PNG" group-title="PARAGUAY | General", ABC-TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
+#EXTINF:-1 tvg-id="EduCanal.py@HD" tvg-logo="https://educanal.com.py/wp-content/uploads/2026/02/cropped-logo-nuevo-educanal-e1770072292135-135x82.png" group-title="PARAGUAY | General", EduCanal HD
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/22.m3u8
+#EXTINF:-1 tvg-id="EduCanal.py@SD" tvg-logo="https://educanal.com.py/wp-content/uploads/2026/02/cropped-logo-nuevo-educanal-e1770072292135-135x82.png" group-title="PARAGUAY | General", EduCanal SD
+https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8
+#EXTINF:-1 tvg-id="GEN.py@Default" tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="PARAGUAY | General", GEN
+https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_baja/playlist.m3u8
+#EXTINF:-1 tvg-id="Latele.py@HD" tvg-logo="https://i.imgur.com/BD16znv.png" group-title="PARAGUAY | General", LATELE HD
+https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="Latele.py@SD" tvg-logo="https://i.imgur.com/BD16znv.png" group-title="PARAGUAY | General", LATELE SD
+https://copacotf.desdeparaguay.net/latele/latele_py_baja/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="MonumentalTV.py@Default" tvg-logo="https://i.imgur.com/kEcOYML.png" group-title="PARAGUAY | General", Monumental 1080 AM
+https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="NoticiasParaguay.py@HD" tvg-logo="https://grupovierci.brightspotcdn.com/dims4/default/e574059/2147483647/strip/true/resize/800x%5E/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff1%2F82%2F0f4ad1784b01a07ceac4d5aba972%2Flogo-npy-2024.webp" group-title="PARAGUAY | General", Noticias Paraguay HD
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/71.m3u8
+#EXTINF:-1 tvg-id="NoticiasParaguay.py@SD" tvg-logo="https://grupovierci.brightspotcdn.com/dims4/default/e574059/2147483647/strip/true/resize/800x%5E/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff1%2F82%2F0f4ad1784b01a07ceac4d5aba972%2Flogo-npy-2024.webp" group-title="PARAGUAY | General", Noticias Paraguay SD
+https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="ParaguayTV.py@SD" tvg-logo="https://i.ibb.co/pB0cvBG1/py-TV-web-2.png" group-title="PARAGUAY | General", PARAGUAY TV
+https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386_output_0.m3u8
+#EXTINF:-1 tvg-id="ParaguayTV.ar@Internacional" tvg-logo="https://i.imgur.com/fkK7i8g.png" group-title="PARAGUAY | General", PARAGUAY TV
+https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
+#EXTINF:-1 tvg-id="Paravision.py@Default" tvg-logo="https://i.imgur.com/yd9Dw2G.png" group-title="PARAGUAY | General", PARAVISION
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
+#EXTINF:-1 tvg-id="PopuTV.py@HD" tvg-logo="https://www.popular.com.py/joajishi/assets/img/tag-3.png" group-title="PARAGUAY | General", POPU TV HD
+https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-id="PopuTV.py@SD" tvg-logo="https://www.popular.com.py/joajishi/assets/img/tag-3.png" group-title="PARAGUAY | General", POPU TV SD
+https://rds3gen.desdeparaguay.net/universotv/universotv_py_baja/chunklist.m3u8?admin=nacion
+#EXTINF:-1 tvg-id="RCC.py@Default" tvg-logo="https://logoroga.com/wp-content/uploads/2025/04/rcc.jpg" group-title="PARAGUAY | General", RCC
+https://copacogen.desdeparaguay.net/rcctv/rcctv/chunklist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="RPCtrece.py@Default" tvg-logo="https://media.trece.com.py/sites/2/2025/09/logotrece_2025.webp" group-title="PARAGUAY | General", RPC TRECE PY
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
+#EXTINF:-1 tvg-id="Telefuturo.py@FHDLAT" tvg-logo="https://grupovierci.brightspotcdn.com/dims4/default/26b9e86/2147483647/strip/true/crop/1777x1790+0+0/resize/800x806!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0e%2Fb6%2F257502f9436b86d576eb823654f6%2Flogo-tf.png" group-title="PARAGUAY | General", Telefuturo FHD LAT
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/74.m3u8
+#EXTINF:-1 tvg-id="TvAirePY.py@Default" tvg-logo="https://i.imgur.com/7gHFKPZ.png" group-title="PARAGUAY | General", Tv Aire PY
+https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
+#EXTINF:-1 tvg-id="UGATV.py@Default" tvg-logo="https://scontent.fasu4-1.fna.fbcdn.net/v/t39.30808-6/279588644_648739803227570_1250496761960320068_n.jpg" group-title="PARAGUAY | General", UGA TV
+https://copacogen.desdeparaguay.net/ugatv/ugatv/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="Unicanal.py@Default" tvg-logo="https://nyc3.digitaloceanspaces.com/media-unicanal/2025/06/Unicanal-logo.webp" group-title="PARAGUAY | General", UNICANAL
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
+#EXTINF:-1 tvg-id="VisionTV.py@Default" tvg-logo="https://i.postimg.cc/fyVSj4Sp/canal-vision-tv.png" group-title="PARAGUAY | General", VISION TV
+https://rds3gen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist.m3u8?admin=nacion
+#EXTINF:-1 tvg-id="Nanduti.py@Default" tvg-logo="https://i.ibb.co/r2DnTpxP/vnIkhRO.png" group-title="PARAGUAY | General", Ñanduti PY
+https://tigocloudgen.desdeparaguay.net/nandutitv/nandutitv_baja/index.m3u8
+#EXTINF:-1 tvg-id="800TV.py@Default" tvg-logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/800tv.png" group-title="PARAGUAY | General", 800TV
+https://copacogen.desdeparaguay.net/800tv/800tv/index.m3u8?admin=nacion
+#EXTINF:-1 tvg-id="AspenTV.py@Default" tvg-logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/aspentv.png" group-title="PARAGUAY | General", ASPEN TV
+https://copacogen.desdeparaguay.net/aspentv/aspentv/index.m3u8?admin=nacion
+#EXTINF:-1 tvg-id="BrunoMasi.py@Default" tvg-logo="https://i.ibb.co/QFmyjZN/unnamed-1.png" group-title="PARAGUAY | General", Bruno Masi
+https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
+#EXTINF:-1 tvg-id="CambyretaTV.py@Default" tvg-logo="https://i.imgur.com/2drFLST.png" group-title="PARAGUAY | General", Cambyreta TV
+https://cloudtv.streaming.com.py/cambyretatv/cambyretatv/playlist.m3u8
+#EXTINF:-1 tvg-id="CosmosTV.py@Default" tvg-logo="https://i.imgur.com/dAMyExY.jpg" group-title="PARAGUAY | General", Cosmos TV
+https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
+#EXTINF:-1 tvg-id="MegaTV.py@Default" tvg-logo="https://i.imgur.com/CaA7l86.png" group-title="PARAGUAY | General", MEGA TV
+https://www.desde-paraguay.com/mega.m3u8
+#EXTINF:-1 tvg-id="MITV.py@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png/1200px-LOGO_MITV_ALTA_DEFINICION_2020_PNG.png" group-title="PARAGUAY | General", MITV
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
+#EXTINF:-1 tvg-id="NEXTV.py@Default" tvg-logo="https://scontent.fasu3-1.fna.fbcdn.net/v/t39.30808-1/530425700_1315262373938472_7321225957133238581_n.jpg" group-title="PARAGUAY | General", NEXTV
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+#EXTINF:-1 tvg-id="PROpy.py@Default" tvg-logo="https://i.imgur.com/ah8n7jL.png" group-title="PARAGUAY | General", PRO PY
+https://www.desde-paraguay.com/pro.m3u8
+#EXTINF:-1 tvg-id="ProductivaTV.py@Default" tvg-logo="https://i.imgur.com/KXHK7UP.png" group-title="PARAGUAY | General", PRODUCTIVA TV
+https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-id="RepublicaTV.py@Default" tvg-logo="https://i.ibb.co/qYRw4JP/Captura.png" group-title="PARAGUAY | General", REPUBLICA TV
+https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
+#EXTINF:-1 tvg-id="RockAndPopTV.py@Default" tvg-logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/rockandpoptv.png" group-title="PARAGUAY | General", ROCK & POP
+https://copacoradios.desdeparaguay.net/rockandpoptv/rockandpoptv_baja/chunklist.m3u8?admin=nacion
+#EXTINF:-1 tvg-id="SucesoTV.py@Default" tvg-logo="https://i.imgur.com/BwRNes1.png" group-title="PARAGUAY | General", SUSESO TV
+https://live.enhdtv.com:8081/8060/index.m3u8
+#EXTINF:-1 tvg-id="UnionTV.py@Default" tvg-logo="https://i.imgur.com/No9YzNC.png" group-title="PARAGUAY | General", UNION TV
+https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
+#EXTINF:-1 tvg-id="656f37f257fe4a000884dfee" tvg-name="656f37f257fe4a000884dfee" tvg-logo="https://images.pluto.tv/channels/656f37f257fe4a000884dfee/colorLogoPNG.png" group-title="LATINO | Anime y Gaming",BORUTO 24/7
+https://jmp2.uk/plu-656f37f257fe4a000884dfee.m3u8
+#EXTINF:-1 tvg-id="64666345f3f5b1000882bfb4" tvg-name="64666345f3f5b1000882bfb4" tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png" group-title="LATINO | Anime y Gaming",CAPITAN TSUBASA 24/7
+https://jmp2.uk/plu-64666345f3f5b1000882bfb4.m3u8
+#EXTINF:-1 tvg-id="626c2ed933a2890007e91422" tvg-name="626c2ed933a2890007e91422" tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" group-title="LATINO | Anime y Gaming",DEATH NOTE 24/7
+https://jmp2.uk/plu-626c2ed933a2890007e91422.m3u8
+#EXTINF:-1 tvg-id="65d916a2f7f0af0008b6540d" tvg-name="65d916a2f7f0af0008b6540d" tvg-logo="https://images.pluto.tv/channels/65d916a2f7f0af0008b6540d/colorLogoPNG.png" group-title="LATINO | Anime y Gaming",HUNTER X HUNTER 24/7
+https://jmp2.uk/plu-65d916a2f7f0af0008b6540d.m3u8
+#EXTINF:-1 tvg-id="66b26665d512590008c507b7" tvg-name="66b26665d512590008c507b7" tvg-logo="https://images.pluto.tv/channels/66b26665d512590008c507b7/colorLogoPNG.png" group-title="LATINO | Anime y Gaming",INUYASHA 24/7
+https://jmp2.uk/plu-66b26665d512590008c507b7.m3u8
+#EXTINF:-1 tvg-id="66c790f780a0af0008583aa4" tvg-name="66c790f780a0af0008583aa4" tvg-logo="https://images.pluto.tv/channels/66c790f780a0af0008583aa4/colorLogoPNG.png" group-title="LATINO | Anime y Gaming",JOJO´S 24/7
+https://jmp2.uk/plu-66c790f780a0af0008583aa4.m3u8
+#EXTINF:-1 tvg-id="5ee92e72fb286e0007285fec" tvg-name="5ee92e72fb286e0007285fec" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="LATINO | Anime y Gaming",NARUTO 24/7
+https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
+#EXTINF:-1 tvg-id="64c92fea3c3344000869e8a9" tvg-name="64c92fea3c3344000869e8a9" tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" group-title="LATINO | Anime y Gaming",NARUTO SHIPPUDEN 24/7
+https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8
+#EXTINF:-1 tvg-id="5ff4b9ccf938f8000779eb99" tvg-name="5ff4b9ccf938f8000779eb99" tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png" group-title="LATINO | Anime y Gaming",ONE PIECE 24/7
+https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
+#EXTINF:-1 tvg-id="5dcde17bf6591d0009839e02" tvg-name="5dcde17bf6591d0009839e02" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="LATINO | Anime y Gaming",PLUTO.TV ANIME
+https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
+#EXTINF:-1 tvg-id="5ff3934600d4c7000733ff49" tvg-name="5ff3934600d4c7000733ff49" tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" group-title="LATINO | Anime y Gaming",PLUTO.TV E-SPORTS
+https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8
+#EXTINF:-1 tvg-id="6870072ca9d5c45c3e9466f1" tvg-name="6870072ca9d5c45c3e9466f1" tvg-logo="https://images.pluto.tv/channels/6870072ca9d5c45c3e9466f1/colorLogoPNG.png" group-title="LATINO | Anime y Gaming",POKEMON 24/7
+https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8
+#EXTINF:-1 tvg-id="5fceaab478f2af00080ff51f" tvg-name="5fceaab478f2af00080ff51f" tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" group-title="LATINO | Anime y Gaming",YU-GI-OH 24/7
+https://jmp2.uk/plu-5fceaab478f2af00080ff51f.m3u8
+#EXTINF:-1 tvg-id="AvatarAang.24x7@Default" tvg-logo="https://images.pluto.tv/channels/6759ee82bd523200083b4f0f/colorLogoPNG.png" group-title="LATINO | Canales 24/7", AVATAR: LA LEYENDA DE AANG 24/7
+https://stitcher.pluto.tv/stitch/hls/channel/6759ee82bd523200083b4f0f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1b8a1e28-ff83-11f0-9944-ced16f20231a
+#EXTINF:-1 tvg-id="BobEsponja.24x7@Default" tvg-logo="https://i.imgur.com/nmZ2nId.png" group-title="LATINO | Canales 24/7", BOB ESPONJA 24/7
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563livestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=22941a63-f69a-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="Boruto.24x7@Default" tvg-logo="https://images.pluto.tv/channels/656f37f257fe4a000884dfee/colorLogoPNG.png" group-title="LATINO | Canales 24/7", BORUTO: LA SIGUIENTE GENERACIÓN DE NARUTO 24/7
+https://stitcher.pluto.tv/stitch/hls/channel/656f37f257fe4a000884dfee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1b8a1e28-ff83-11f0-9944-ced16f20231a
+#EXTINF:-1 tvg-id="CapitanTsubasa.24x7@Default" tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png" group-title="LATINO | Canales 24/7", CAPITÁN TSUBASA 24/7
+https://stitcher.pluto.tv/stitch/hls/channel/64666345f3f5b1000882bfb4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1b8a1e28-ff83-11f0-9944-ced16f20231a
+#EXTINF:-1 tvg-id="DeathNote.24x7@Default" tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" group-title="LATINO | Canales 24/7", DEATH NOTE 24/7
+https://stitcher.pluto.tv/stitch/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1b8a1e28-ff83-11f0-9944-ced16f20231a
+#EXTINF:-1 tvg-id="HeyArnold.24x7@Default" tvg-logo="https://images.pluto.tv/channels/66c79221b1a34600087e264d/colorLogoPNG.png" group-title="LATINO | Canales 24/7", HEY ARNOLD! 24/7
+https://stitcher.pluto.tv/stitch/hls/channel/66c79221b1a34600087e264d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1b8a1e28-ff83-11f0-9944-ced16f20231a
+#EXTINF:-1 tvg-id="HunterXHunter.24x7@Default" tvg-logo="https://images.pluto.tv/channels/65d916a2f7f0af0008b6540d/colorLogoPNG.png" group-title="LATINO | Canales 24/7", HUNTER X HUNTER 24/7
+https://stitcher.pluto.tv/stitch/hls/channel/65d916a2f7f0af0008b6540d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1b8a1e28-ff83-11f0-9944-ced16f20231a
+#EXTINF:-1 tvg-id="iCarly.24x7@Default" tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png" group-title="LATINO | Canales 24/7", ICARLY! 24/7
+https://stitcher.pluto.tv/stitch/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1b8a1e28-ff83-11f0-9944-ced16f20231a
+#EXTINF:-1 tvg-id="Inuyasha.24x7@Default" tvg-logo="https://images.pluto.tv/channels/66b26665d512590008c507b7/colorLogoPNG.png" group-title="LATINO | Canales 24/7", INUYASHA 24/7
+https://stitcher.pluto.tv/stitch/hls/channel/66b26665d512590008c507b7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1b8a1e28-ff83-11f0-9944-ced16f20231a
+#EXTINF:-1 tvg-id="JoJos.24x7@Default" tvg-logo="https://images.pluto.tv/channels/66c790f780a0af0008583aa4/colorLogoPNG.png" group-title="LATINO | Canales 24/7", JOJO´S 24/7
+https://stitcher.pluto.tv/stitch/hls/channel/66c790f780a0af0008583aa4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1b8a1e28-ff83-11f0-9944-ced16f20231a
+#EXTINF:-1 tvg-id="KenanKel.24x7@Default" tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png" group-title="LATINO | Canales 24/7", KENAN & KEL 24/7
+https://stitcher.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1b8a1e28-ff83-11f0-9944-ced16f20231a
+#EXTINF:-1 tvg-id="TortugasNinja.24x7@Default" tvg-logo="https://i.imgur.com/urJdNc9.png" group-title="LATINO | Canales 24/7", LAS TORTUGAS NINJA 24/7
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63dd5d7a4e83e700088fbca8livestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=PY&sid=22941a63-f69a-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="Pitufos.24x7@Default" tvg-logo="https://images.pluto.tv/channels/68a3a97fd8f7693ae3f8575f/colorLogoPNG_1760386874134.png" group-title="LATINO | Canales 24/7", LOS PITUFOS 24/7
+https://stitcher.pluto.tv/stitch/hls/channel/68a3a97fd8f7693ae3f8575f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1b8a1e28-ff83-11f0-9944-ced16f20231a
+#EXTINF:-1 tvg-id="Naruto.24x7@Default" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="LATINO | Canales 24/7", NARUTO ORIGINAL 24/7
+https://stitcher.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1b8a1e28-ff83-11f0-9944-ced16f20231a
+#EXTINF:-1 tvg-id="NarutoShippuden.24x7@Default" tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" group-title="LATINO | Canales 24/7", NARUTO SHIPPUDEN 24/7
+https://stitcher.pluto.tv/stitch/hls/channel/64c92fea3c3344000869e8a9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1b8a1e28-ff83-11f0-9944-ced16f20231a
+#EXTINF:-1 tvg-id="OnePiece.24x7@Default" tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG-1663941540755.png" group-title="LATINO | Canales 24/7", ONE PIECE 24/7
+https://stitcher.pluto.tv/stitch/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1b8a1e28-ff83-11f0-9944-ced16f20231a
+#EXTINF:-1 tvg-id="Pocoyo.24x7@Default" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/pocoyo_-_logo_y_fondo_0.jpg" group-title="LATINO | Canales 24/7", POCOYO MULTI-ESPAÑOL 24/7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5626
+#EXTINF:-1 tvg-id="Pokemon.24x7@Default" tvg-logo="https://images.pluto.tv/channels/6870072ca9d5c45c3e9466f1/colorLogoPNG_1752173270400.png" group-title="LATINO | Canales 24/7", POKEMON 24/7
+https://stitcher.pluto.tv/stitch/hls/channel/6870072ca9d5c45c3e9466f1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1b8a1e28-ff83-11f0-9944-ced16f20231a
+#EXTINF:-1 tvg-id="Popeye.24x7@Default" tvg-logo="https://images.pluto.tv/channels/677d93afe650a700081e5f18/colorLogoPNG.png" group-title="LATINO | Canales 24/7", POPEYE 24/7
+https://stitcher.pluto.tv/stitch/hls/channel/677d93afe650a700081e5f18/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1b8a1e28-ff83-11f0-9944-ced16f20231a
+#EXTINF:-1 tvg-id="Rugrats.24x7@Default" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" group-title="LATINO | Canales 24/7", RUGRATS 24/7
+https://stitcher.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1b8a1e28-ff83-11f0-9944-ced16f20231a
+#EXTINF:-1 tvg-id="WipeOut.24x7@Default" tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png" group-title="LATINO | Canales 24/7", WIPE-OUT 24/7
+https://stitcher.pluto.tv/stitch/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1b8a1e28-ff83-11f0-9944-ced16f20231a
+#EXTINF:-1 tvg-id="YuGiOh.24x7@Default" tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" group-title="LATINO | Canales 24/7", YU-GI-OH 24/7
+https://stitcher.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1b8a1e28-ff83-11f0-9944-ced16f20231a
+#EXTINF:-1 tvg-id="A3Series.es@Default" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Atreseries_2020.svg" group-title="LATINO | Cine y Series", A3SERIES
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/44.m3u8
+#EXTINF:-1 tvg-id="AMCSeries.la@Default" tvg-logo="https://amcla.s3.amazonaws.com/channel_logo/index/Z9YHbjFofV_logo-amc-series.webp" group-title="LATINO | Cine y Series", AMC Series
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/42.m3u8
+#EXTINF:-1 tvg-id="AXN.la@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="LATINO | Cine y Series", AXN
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8
+#EXTINF:-1 tvg-id="CanalClaro.py@Default" tvg-logo="https://i.imgur.com/Kgjfd3J.png" group-title="LATINO | Cine y Series", CANAL CLARO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2livestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=22941a63-f69a-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="ComedyCentral.la@Default" tvg-logo="https://i.imgur.com/6xTD3G8.png" group-title="LATINO | Cine y Series", COMEDY CENTRAL
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/87.m3u8
+#EXTINF:-1 tvg-id="DHE.la@Default" tvg-logo="https://i.imgur.com/nsttoEa.png" group-title="LATINO | Cine y Series", DHE
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/19.m3u8
+#EXTINF:-1 tvg-id="HyH.la@Default" tvg-logo="https://i.ibb.co/gjWGgjX/hh.png" group-title="LATINO | Cine y Series", H&H
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
+#EXTINF:-1 tvg-id="HBO.la@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/HBO_Latino_%282014%29.svg/512px-HBO_Latino_%282014%29.svg.png" group-title="LATINO | Cine y Series", HBO
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/32.m3u8
+#EXTINF:-1 tvg-id="HBO2.la@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="LATINO | Cine y Series", HBO 2
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/30.m3u8
+#EXTINF:-1 tvg-id="HBOFamily.la@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="LATINO | Cine y Series", HBO Family
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/31.m3u8
+#EXTINF:-1 tvg-id="HBOSignature.la@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/512px-HBO_Signature_Asia.png" group-title="LATINO | Cine y Series", HBO Signature
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/34.m3u8
+#EXTINF:-1 tvg-id="HBOXtreme.la@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="LATINO | Cine y Series", HBO Xtreme
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/35.m3u8
+#EXTINF:-1 tvg-id="HBOPlus.la@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" group-title="LATINO | Cine y Series", HBO+
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/36.m3u8
+#EXTINF:-1 tvg-id="KanalDrama.tr@Default" tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png" group-title="LATINO | Cine y Series", KANAL D-DRAMA
+https://stitcher.pluto.tv/stitch/hls/channel/639751f81a36b400072b8f5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1a09f2a5-043a-11f1-8d4d-168da0c4e6cc
+#EXTINF:-1 tvg-id="Pasiones.la@Default" tvg-logo="https://i.imgur.com/VGnbWjO.png" group-title="LATINO | Cine y Series", PASIONES
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/47.m3u8
+#EXTINF:-1 tvg-id="Sony.la@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="LATINO | Cine y Series", SONY
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/49.m3u8
+#EXTINF:-1 tvg-id="Space.la@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="LATINO | Cine y Series", SPACE
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/50.m3u8
+#EXTINF:-1 tvg-id="StarChannel.la@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="LATINO | Cine y Series", STAR CHANNEL
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8
+#EXTINF:-1 tvg-id="StudioUniversal.la@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png" group-title="LATINO | Cine y Series", STUDIOS HD
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/53.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels//colorLogoPNG.png" group-title="LATINO | Cine y Series",TASTEMADE
+https://jmp2.uk/plu-5f998c1fc54853000797bacd.m3u8
+#EXTINF:-1 tvg-id="Tastemade.la@Default" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="LATINO | Cine y Series", TASTEMADE
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/100.m3u8
+#EXTINF:-1 tvg-id="TastemadeHogar.la@Default" tvg-logo="https://images.pluto.tv/channels/68b887c2e77777498226a0de/colorLogoPNG_1759784264793.png" group-title="LATINO | Cine y Series", TASTEMADE HOGAR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/68b887c2e77777498226a0delivestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=PY&sid=22941a63-f69a-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="TastemadePlutoTV.la@Default" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="LATINO | Cine y Series", TASTEMADE PLUTO TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f998c1fc54853000797bacdlivestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=PY&sid=22941a63-f69a-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="68b88712e777774982269ce9" tvg-name="68b88712e777774982269ce9" tvg-logo="https://images.pluto.tv/channels/68b88712e777774982269ce9/colorLogoPNG.png" group-title="LATINO | Cine y Series",TASTEMADE VIAJES
+https://jmp2.uk/plu-68b88712e777774982269ce9.m3u8
+#EXTINF:-1 tvg-id="TastemadeViajes.la@Default" tvg-logo="https://images.pluto.tv/channels/68b88712e777774982269ce9/colorLogoPNG_1759784097851.png" group-title="LATINO | Cine y Series", TASTEMADE VIAJES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/68b88712e777774982269ce9livestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=PY&sid=22941a63-f69a-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="TLNNovelas.la@Default" tvg-logo="https://i.imgur.com/Rvm38Mu.png" group-title="LATINO | Cine y Series", TLN NOVELAS
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/75.m3u8
+#EXTINF:-1 tvg-id="TNTNovelas.la@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/500px-Logo_TNT_Novelas.png" group-title="LATINO | Cine y Series", TNT NOVELAS
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/57.m3u8
+#EXTINF:-1 tvg-id="UniversalComedy.la@Default" tvg-logo="https://i.imgur.com/avBL8pQ.png" group-title="LATINO | Cine y Series", UNIVERSAL COMEDY
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/62.m3u8
+#EXTINF:-1 tvg-id="UniversalCrime.la@Default" tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="LATINO | Cine y Series", UNIVERSAL CRIME
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/63.m3u8
+#EXTINF:-1 tvg-id="UniversalPremier.la@Default" tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="LATINO | Cine y Series", UNIVERSAL PREMIER
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/64.m3u8
+#EXTINF:-1 tvg-id="UniversalReality.la@Default" tvg-logo="https://i.imgur.com/mqfUD1R.png" group-title="LATINO | Cine y Series", UNIVERSAL REALITY
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/65.m3u8
+#EXTINF:-1 tvg-id="WarnerTV.la@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png" group-title="LATINO | Cine y Series", WARNER TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8
+#EXTINF:-1 tvg-id="AztecaDeportes.mx@Default" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2ecbfa8a3f25cc1212dbcd975383b55a.webp" group-title="LATINO | Deportes", AZTECA DEPORTES NETWORK
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6582f002a620e3000813b329livestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=22941a63-f69a-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="AztecaDeportes.mx@Premium" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2ecbfa8a3f25cc1212dbcd975383b55a.webp" group-title="LATINO | Deportes", AZTECA DEPORTES PREMIUM
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=fc2cc0eb-b76b-424e-8882-09ed7871f53d
+#EXTINF:-1 tvg-id="ESPN.ar@Default" tvg-logo="https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/espn-network-logo.png" group-title="LATINO | Deportes", ESPN
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/89.m3u8
+#EXTINF:-1 tvg-id="ESPN2.ar@Default" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="LATINO | Deportes", ESPN 2
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/88.m3u8
+#EXTINF:-1 tvg-id="ESPN3.ar@Default" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="LATINO | Deportes", ESPN 3
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/90.m3u8
+#EXTINF:-1 tvg-id="ESPN4.ar@Default" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="LATINO | Deportes", ESPN 4
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/91.m3u8
+#EXTINF:-1 tvg-id="ESPN5.ar@Default" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86787_dark_360w_270h.png" group-title="LATINO | Deportes", ESPN 5
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/92.m3u8
+#EXTINF:-1 tvg-id="ESPN6.ar@Default" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99633_dark_360w_270h.png" group-title="LATINO | Deportes", ESPN 6
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/25.m3u8
+#EXTINF:-1 tvg-id="ESPN7.ar@Default" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91513_dark_360w_270h.png" group-title="LATINO | Deportes", ESPN 7
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/26.m3u8
+#EXTINF:-1 tvg-id="66997d18a1b69e00082ee85f" tvg-name="66997d18a1b69e00082ee85f" tvg-logo="https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG.png" group-title="LATINO | Deportes",FIFA+
+https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.int@Default" tvg-logo="https://roams.es/images/post/es_ES_news/categoria-telefonia/1200x675/logo-de-fifa-plus.webp" group-title="LATINO | Deportes", FIFA+
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="63f7e3f9dff38e00082a57af" tvg-name="63f7e3f9dff38e00082a57af" tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG.png" group-title="LATINO | Deportes",ITV DEPORTES
+https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8
+#EXTINF:-1 tvg-id="64f6163a30ab3300083d870e" tvg-name="64f6163a30ab3300083d870e" tvg-logo="https://images.pluto.tv/channels/64f6163a30ab3300083d870e/colorLogoPNG.png" group-title="LATINO | Deportes",PFL MMA
+https://jmp2.uk/plu-64f6163a30ab3300083d870e.m3u8
+#EXTINF:-1 tvg-id="PlutoDeportes.la@Default" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="LATINO | Deportes", PLUTO DEPORTES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=22941a63-f69a-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="5dcde07af1c85b0009b18651" tvg-name="5dcde07af1c85b0009b18651" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="LATINO | Deportes",PLUTO.TV DEPORTES
+https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
+#EXTINF:-1 tvg-id="63c6e37e636b7e0007ccb635" tvg-name="63c6e37e636b7e0007ccb635" tvg-logo="https://images.pluto.tv/channels/63c6e37e636b7e0007ccb635/colorLogoPNG.png" group-title="LATINO | Deportes",PLUTO.TV FUTBOL
+https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8
+#EXTINF:-1 tvg-id="5e98b0447665f200078caded" tvg-name="5e98b0447665f200078caded" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png" group-title="LATINO | Deportes",PLUTO.TV PELEAS
+https://jmp2.uk/plu-5e98b0447665f200078caded.m3u8
+#EXTINF:-1 tvg-id="67a3b45a21af380008133aa4" tvg-name="67a3b45a21af380008133aa4" tvg-logo="https://images.pluto.tv/channels/67a3b45a21af380008133aa4/colorLogoPNG.png" group-title="LATINO | Deportes",REAL MADRID TV
+https://jmp2.uk/plu-67a3b45a21af380008133aa4.m3u8
+#EXTINF:-1 tvg-id="RealMadridTV.es@Default" tvg-logo="https://i.postimg.cc/2yp7nzVN/realmadridtv.png" group-title="LATINO | Deportes", REAL MADRID TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-id="67813f893886aa863497733d" tvg-name="67813f893886aa863497733d" tvg-logo="https://images.pluto.tv/channels/67813f893886aa863497733d/colorLogoPNG.png" group-title="LATINO | Deportes",RED BULL TV
+https://jmp2.uk/plu-67813f893886aa863497733d.m3u8
+#EXTINF:-1 tvg-id="6870c9333ffa5e0c914e9205" tvg-name="6870c9333ffa5e0c914e9205" tvg-logo="https://images.pluto.tv/channels/6870c9333ffa5e0c914e9205/colorLogoPNG.png" group-title="LATINO | Deportes",TENNIS CHANNEL
+https://jmp2.uk/plu-6870c9333ffa5e0c914e9205.m3u8
+#EXTINF:-1 tvg-id="67a52c8397782f00081879aa" tvg-name="67a52c8397782f00081879aa" tvg-logo="https://images.pluto.tv/channels/67a52c8397782f00081879aa/colorLogoPNG.png" group-title="LATINO | Deportes",TOP BARCA
+https://jmp2.uk/plu-67a52c8397782f00081879aa.m3u8
+#EXTINF:-1 tvg-id="TopBarca.es@Default" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ff403089-1c81-41d3-bb18-b817b1f01721.jpeg" group-title="LATINO | Deportes", TOP BARCA
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8?ads_amagi_channel_id=941&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB17&ads_content_genre=sports&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=192.145.38.205&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=6347&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=3f3f0e53-3bfa-44e9-8021-50c689254876&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-id="67a52cd4ec91870008a62164" tvg-name="67a52cd4ec91870008a62164" tvg-logo="https://images.pluto.tv/channels/67a52cd4ec91870008a62164/colorLogoPNG.png" group-title="LATINO | Deportes",UFC
+https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8
+#EXTINF:-1 tvg-id="6419ab7c9189ce000865a469" tvg-name="6419ab7c9189ce000865a469" tvg-logo="https://images.pluto.tv/channels/6419ab7c9189ce000865a469/colorLogoPNG.png" group-title="LATINO | Documentales",C.O.P.S.
+https://jmp2.uk/plu-6419ab7c9189ce000865a469.m3u8
+#EXTINF:-1 tvg-id="673249433a61d400087a51ed" tvg-name="673249433a61d400087a51ed" tvg-logo="https://images.pluto.tv/channels/673249433a61d400087a51ed/colorLogoPNG.png" group-title="LATINO | Documentales",CONSTRUCCIONES ASOMBROSAS
+https://jmp2.uk/plu-673249433a61d400087a51ed.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHD.la@Default" tvg-logo="https://i.ibb.co/bNnyx0B/3328310f-6d31-30a1-be18-d17a7ecb95cd.png" group-title="LATINO | Documentales", Discovery HD
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/20.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTheaterHD.la@Default" tvg-logo="https://i.ibb.co/TD6cKXF0/2015-Discovery-theater-HD-logo-svg.png" group-title="LATINO | Documentales", DISCOVERY THEATER HD
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/21.m3u8
+#EXTINF:-1 tvg-id="5f9992c685a2a80007fa414a" tvg-name="5f9992c685a2a80007fa414a" tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" group-title="LATINO | Documentales",DOG EL CAZARRECOMPENSAS
+https://jmp2.uk/plu-5f9992c685a2a80007fa414a.m3u8
+#EXTINF:-1 tvg-id="61099f2b40d0640007fc5aa2" tvg-name="61099f2b40d0640007fc5aa2" tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png" group-title="LATINO | Documentales",EL ENCANTADOR DE PERROS
+https://jmp2.uk/plu-61099f2b40d0640007fc5aa2.m3u8
+#EXTINF:-1 tvg-id="5f23102d5e239d00074b092a" tvg-name="5f23102d5e239d00074b092a" tvg-logo="https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png" group-title="LATINO | Documentales",EMPEÑOS A LO BESTIA
+https://jmp2.uk/plu-5f23102d5e239d00074b092a.m3u8
+#EXTINF:-1 tvg-id="History.la@Default" tvg-logo="https://i.ibb.co/cSf474qK/History-Logo-svg.png" group-title="LATINO | Documentales", HISTORY
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
+#EXTINF:-1 tvg-id="62154548a2be360007cb02f0" tvg-name="62154548a2be360007cb02f0" tvg-logo="https://images.pluto.tv/channels/62154548a2be360007cb02f0/colorLogoPNG.png" group-title="LATINO | Documentales",ICE PILOTS (PILOTOS DEL ARTICO)
+https://jmp2.uk/plu-62154548a2be360007cb02f0.m3u8
+#EXTINF:-1 tvg-id="IDDiscovery.la@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/512px-InvestigationDiscoveryLogo2020.svg.png" group-title="LATINO | Documentales", ID DISCOVERY
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/41.m3u8
+#EXTINF:-1 tvg-id="64025592953da40008bf9238" tvg-name="64025592953da40008bf9238" tvg-logo="https://images.pluto.tv/channels/64025592953da40008bf9238/colorLogoPNG.png" group-title="LATINO | Documentales",LOCOS Y OBSESIÓNADOS POR LOS AUTOS
+https://jmp2.uk/plu-64025592953da40008bf9238.m3u8
+#EXTINF:-1 tvg-id="656e2536fbc15b00084ae29d" tvg-name="656e2536fbc15b00084ae29d" tvg-logo="https://images.pluto.tv/channels/656e2536fbc15b00084ae29d/colorLogoPNG.png" group-title="LATINO | Documentales",MI COCHE CLÁSICO
+https://jmp2.uk/plu-656e2536fbc15b00084ae29d.m3u8
+#EXTINF:-1 tvg-id="5f230e416b68ff00075b0139" tvg-name="5f230e416b68ff00075b0139" tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" group-title="LATINO | Documentales",MISTERIOS MEDICOS
+https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8
+#EXTINF:-1 tvg-id="60e5ea9a9bb4200008376f76" tvg-name="60e5ea9a9bb4200008376f76" tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png" group-title="LATINO | Documentales",MOTORVISION.TV
+https://jmp2.uk/plu-60e5ea9a9bb4200008376f76.m3u8
+#EXTINF:-1 tvg-id="66a92375cd0d31000847b219" tvg-name="66a92375cd0d31000847b219" tvg-logo="https://images.pluto.tv/channels/66a92375cd0d31000847b219/colorLogoPNG.png" group-title="LATINO | Documentales",MOUSTROS DEL RIO
+https://jmp2.uk/plu-66a92375cd0d31000847b219.m3u8
+#EXTINF:-1 tvg-id="NatGeo.la@Default" tvg-logo="https://www.giscorps.org/wp-content/uploads/2021/02/national-geographic-logo-1024x768.png" group-title="LATINO | Documentales", NAT GEO
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/45.m3u8
+#EXTINF:-1 tvg-id="681ba2729624e6275efe0044" tvg-name="681ba2729624e6275efe0044" tvg-logo="https://images.pluto.tv/channels/681ba2729624e6275efe0044/colorLogoPNG.png" group-title="LATINO | Documentales",NATURETIME
+https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
+#EXTINF:-1 tvg-id="5ddc266f80e3550009136843" tvg-name="5ddc266f80e3550009136843" tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png" group-title="LATINO | Documentales",PLUTO.TV AVENTURA
+https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8
+#EXTINF:-1 tvg-id="5ddc503ac7ef120009b101a2" tvg-name="5ddc503ac7ef120009b101a2" tvg-logo="https://images.pluto.tv/channels/5ddc503ac7ef120009b101a2/colorLogoPNG.png" group-title="LATINO | Documentales",PLUTO.TV DOCUMENTALES
+https://jmp2.uk/plu-5ddc503ac7ef120009b101a2.m3u8
+#EXTINF:-1 tvg-id="5de5758e1a30dc00094fcd6c" tvg-name="5de5758e1a30dc00094fcd6c" tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" group-title="LATINO | Documentales",PLUTO.TV HISTORIA
+https://jmp2.uk/plu-5de5758e1a30dc00094fcd6c.m3u8
+#EXTINF:-1 tvg-id="5dd85eac039bba0009e86d1d" tvg-name="5dd85eac039bba0009e86d1d" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="LATINO | Documentales",PLUTO.TV NATURALEZA
+https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
+#EXTINF:-1 tvg-id="5dd6dc7480e3550009133d4a" tvg-name="5dd6dc7480e3550009133d4a" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" group-title="LATINO | Documentales",PLUTO.TV VELOCIDAD
+https://jmp2.uk/plu-5dd6dc7480e3550009133d4a.m3u8
+#EXTINF:-1 tvg-id="5df265697ec3510009df1ef0" tvg-name="5df265697ec3510009df1ef0" tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" group-title="LATINO | Documentales",PLUTO.TV VIDA REAL
+https://jmp2.uk/plu-5df265697ec3510009df1ef0.m3u8
+#EXTINF:-1 tvg-id="66ba53cda4ee2700083fac09" tvg-name="66ba53cda4ee2700083fac09" tvg-logo="https://images.pluto.tv/channels/66ba53cda4ee2700083fac09/colorLogoPNG.png" group-title="LATINO | Documentales",SALA DE EMERGENCIAS:HISTORIAS INEDITAS
+https://jmp2.uk/plu-66ba53cda4ee2700083fac09.m3u8
+#EXTINF:-1 tvg-id="68b784d03e17b7676a0378f7" tvg-name="68b784d03e17b7676a0378f7" tvg-logo="https://images.pluto.tv/channels/68b784d03e17b7676a0378f7/colorLogoPNG.png" group-title="LATINO | Documentales",SHOCKWAVE
+https://jmp2.uk/plu-68b784d03e17b7676a0378f7.m3u8
+#EXTINF:-1 tvg-id="63a084934734f30007457b2c" tvg-name="63a084934734f30007457b2c" tvg-logo="https://images.pluto.tv/channels/63a084934734f30007457b2c/colorLogoPNG.png" group-title="LATINO | Documentales",SMITHSINIAN CHANNEL
+https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
+#EXTINF:-1 tvg-id="5f4fed840a2764000720d966" tvg-name="5f4fed840a2764000720d966" tvg-logo="https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png" group-title="LATINO | Documentales",STINGRAY PAISAJES
+https://jmp2.uk/plu-5f4fed840a2764000720d966.m3u8
+#EXTINF:-1 tvg-id="678533155e0e6a000828cd48" tvg-name="678533155e0e6a000828cd48" tvg-logo="https://images.pluto.tv/channels/678533155e0e6a000828cd48/colorLogoPNG.png" group-title="LATINO | Documentales",UNTOLD STORIES OF THE ER
+https://jmp2.uk/plu-678533155e0e6a000828cd48.m3u8
+#EXTINF:-1 tvg-id="673249afc7626f0008c7205d" tvg-name="673249afc7626f0008c7205d" tvg-logo="https://images.pluto.tv/channels/673249afc7626f0008c7205d/colorLogoPNG.png" group-title="LATINO | Documentales",VIDAS EXTREMAS
+https://jmp2.uk/plu-673249afc7626f0008c7205d.m3u8
+#EXTINF:-1 tvg-id="3ABNLatino.py@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/3ABN_Latino_logo_%282024%29.svg/960px-3ABN_Latino_logo_%282024%29.svg.png" group-title="LATINO | Entretenimiento", 3ABN
+https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="68ba0910e1d03fec7d5c084f" tvg-name="68ba0910e1d03fec7d5c084f" tvg-logo="https://images.pluto.tv/channels/68ba0910e1d03fec7d5c084f/colorLogoPNG.png" group-title="LATINO | Entretenimiento",AL RITMO DEL JARIPEO
+https://jmp2.uk/plu-68ba0910e1d03fec7d5c084f.m3u8
+#EXTINF:-1 tvg-id="645d1abbe1979c0008779d5a" tvg-name="645d1abbe1979c0008779d5a" tvg-logo="https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/colorLogoPNG.png" group-title="LATINO | Entretenimiento",ARCHIVOS EXTRATERRESTRES
+https://jmp2.uk/plu-645d1abbe1979c0008779d5a.m3u8
+#EXTINF:-1 tvg-id="5efb8c19b2678b000780d032" tvg-name="5efb8c19b2678b000780d032" tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png" group-title="LATINO | Entretenimiento",ARCHIVOS FORENSES
+https://jmp2.uk/plu-5efb8c19b2678b000780d032.m3u8
+#EXTINF:-1 tvg-id="AzCorazon.mx@Internacional" tvg-logo="https://images.pluto.tv/channels/646ccdd0939a5900088a1980/colorLogoPNG.png" group-title="LATINO | Entretenimiento", AZ CORAZÓN
+https://stitcher.pluto.tv/stitch/hls/channel/646ccdd0939a5900088a1980/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1b8a1e28-ff83-11f0-9944-ced16f20231a
+#EXTINF:-1 tvg-id="646cce4d1593940008a33f09" tvg-name="646cce4d1593940008a33f09" tvg-logo="https://images.pluto.tv/channels/646cce4d1593940008a33f09/colorLogoPNG.png" group-title="LATINO | Entretenimiento",AZTECA INTERNACIONAL
+https://jmp2.uk/plu-646cce4d1593940008a33f09.m3u8
+#EXTINF:-1 tvg-id="Band.br@Default" tvg-logo="https://i.imgur.com/1r5T6Pw.png" group-title="LATINO | Entretenimiento", BAND
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/77.m3u8
+#EXTINF:-1 tvg-id="678029c654f43dad4b5c1ec0" tvg-name="678029c654f43dad4b5c1ec0" tvg-logo="https://images.pluto.tv/channels/678029c654f43dad4b5c1ec0/colorLogoPNG.png" group-title="LATINO | Entretenimiento",BROMAS GAGS
+https://jmp2.uk/plu-678029c654f43dad4b5c1ec0.m3u8
+#EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" tvg-name="652e91fd6208700008dcaf7b" tvg-logo="https://images.pluto.tv/channels/652e91fd6208700008dcaf7b/colorLogoPNG.png" group-title="LATINO | Entretenimiento",CANAL 6 CDMX
+https://jmp2.uk/plu-652e91fd6208700008dcaf7b.m3u8
+#EXTINF:-1 tvg-id="68224482c5d53e1351aaf2f2" tvg-name="68224482c5d53e1351aaf2f2" tvg-logo="https://images.pluto.tv/channels/68224482c5d53e1351aaf2f2/colorLogoPNG.png" group-title="LATINO | Entretenimiento",CANAL CLARÓ
+https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
+#EXTINF:-1 tvg-id="CanalE.ar@Locales" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" group-title="LATINO | Entretenimiento", CANAL E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-id="Canal26.ar@Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="LATINO | Entretenimiento", CANAL26 INTERNACIONAL
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/12.m3u8
+#EXTINF:-1 tvg-id="60d393e5579a420007ee553c" tvg-name="60d393e5579a420007ee553c" tvg-logo="https://images.pluto.tv/channels/60d393e5579a420007ee553c/colorLogoPNG.png" group-title="LATINO | Entretenimiento",CASO CERRADO: CASOS DE LA DRA. POLO
+https://jmp2.uk/plu-60d393e5579a420007ee553c.m3u8
+#EXTINF:-1 tvg-id="6732499ce40c4a0008bb9894" tvg-name="6732499ce40c4a0008bb9894" tvg-logo="https://images.pluto.tv/channels/6732499ce40c4a0008bb9894/colorLogoPNG.png" group-title="LATINO | Entretenimiento",CRIMEN DE WB
+https://jmp2.uk/plu-6732499ce40c4a0008bb9894.m3u8
+#EXTINF:-1 tvg-id="62d0895ebe7a970008785244" tvg-name="62d0895ebe7a970008785244" tvg-logo="https://images.pluto.tv/channels/62d0895ebe7a970008785244/colorLogoPNG.png" group-title="LATINO | Entretenimiento",DARIA
+https://jmp2.uk/plu-62d0895ebe7a970008785244.m3u8
+#EXTINF:-1 tvg-id="697c9bc2a7ce9d5a3d83504a" tvg-name="697c9bc2a7ce9d5a3d83504a" tvg-logo="https://images.pluto.tv/channels/697c9bc2a7ce9d5a3d83504a/colorLogoPNG.png" group-title="LATINO | Entretenimiento",DR. G
+https://jmp2.uk/plu-697c9bc2a7ce9d5a3d83504a.m3u8
+#EXTINF:-1 tvg-id="6894fc3f66f164e402f4fd14" tvg-name="6894fc3f66f164e402f4fd14" tvg-logo="https://images.pluto.tv/channels/6894fc3f66f164e402f4fd14/colorLogoPNG.png" group-title="LATINO | Entretenimiento",DULCE BY ELGOURMET
+https://jmp2.uk/plu-6894fc3f66f164e402f4fd14.m3u8
+#EXTINF:-1 tvg-id="699763d184235f26d5056002" tvg-name="699763d184235f26d5056002" tvg-logo="https://images.pluto.tv/channels/699763d184235f26d5056002/colorLogoPNG.png" group-title="LATINO | Entretenimiento",ENCHUFE.TV
+https://jmp2.uk/plu-699763d184235f26d5056002.m3u8
+#EXTINF:-1 tvg-id="EnlaceTV.py@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Enlace_Televisi%C3%B3n_logo.svg/330px-Enlace_Televisi%C3%B3n_logo.svg.png" group-title="LATINO | Entretenimiento", ENLACE
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/24.m3u8
+#EXTINF:-1 tvg-id="Estrella.mx@Internacional" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="LATINO | Entretenimiento", ESTRELLA MX
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5cf0622da00ca1e2f6fac712" tvg-name="5cf0622da00ca1e2f6fac712" tvg-logo="https://images.pluto.tv/channels/5cf0622da00ca1e2f6fac712/colorLogoPNG.png" group-title="LATINO | Entretenimiento",ESTRELLA TV
+https://jmp2.uk/plu-5cf0622da00ca1e2f6fac712.m3u8
+#EXTINF:-1 tvg-id="EventosIntermedias.py@Default" tvg-logo="https://i.ibb.co/1fZk2KkT/KN-rezice.png" group-title="LATINO | Entretenimiento", EVENTOS INTERMEDI@S PY
+https://live.enhdtv.com:8081/8150/index.m3u8
+#EXTINF:-1 tvg-id="5ebaccf1734aaf0007142c86" tvg-name="5ebaccf1734aaf0007142c86" tvg-logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png" group-title="LATINO | Entretenimiento",FAILARMY
+https://jmp2.uk/plu-5ebaccf1734aaf0007142c86.m3u8
+#EXTINF:-1 tvg-id="FreeTVAccion.py@Default" tvg-logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png" group-title="LATINO | Entretenimiento", FREETV Accion
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="FreeTVDrama.py@Default" tvg-logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png" group-title="LATINO | Entretenimiento", FREETV Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereal-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="FreeTVEstella.py@Default" tvg-logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png" group-title="LATINO | Entretenimiento", FREETV Estella
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="FreeTVFamilia.py@Default" tvg-logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png" group-title="LATINO | Entretenimiento", FREETV Familia
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="FreeTVSureno.py@Default" tvg-logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png" group-title="LATINO | Entretenimiento", FREETV Sureño
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="FreeTVTerror.py@Default" tvg-logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png" group-title="LATINO | Entretenimiento", FREETV Terror
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="GarajeTV.py@Default" tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="LATINO | Entretenimiento", GARAJE TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-id="Globo.br@Default" tvg-logo="https://i.imgur.com/bPJgtCg.png" group-title="LATINO | Entretenimiento", GLOBO
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/80.m3u8
+#EXTINF:-1 tvg-id="67f95fa76b11614ab0caaef3" tvg-name="67f95fa76b11614ab0caaef3" tvg-logo="https://images.pluto.tv/channels/67f95fa76b11614ab0caaef3/colorLogoPNG.png" group-title="LATINO | Entretenimiento",HECHICERAS
+https://jmp2.uk/plu-67f95fa76b11614ab0caaef3.m3u8
+#EXTINF:-1 tvg-id="631fb6be21b7440007b9f606" tvg-name="631fb6be21b7440007b9f606" tvg-logo="https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png" group-title="LATINO | Entretenimiento",HECHIZADA
+https://jmp2.uk/plu-631fb6be21b7440007b9f606.m3u8
+#EXTINF:-1 tvg-id="5f4d3696d938c900072679fd" tvg-name="5f4d3696d938c900072679fd" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title="LATINO | Entretenimiento",HISTORIAS DE ULTRATUMBA
+https://jmp2.uk/plu-5f4d3696d938c900072679fd.m3u8
+#EXTINF:-1 tvg-id="64fb1f6e6625510008c00848" tvg-name="64fb1f6e6625510008c00848" tvg-logo="https://images.pluto.tv/channels/64fb1f6e6625510008c00848/colorLogoPNG.png" group-title="LATINO | Entretenimiento",HOMEFUL
+https://jmp2.uk/plu-64fb1f6e6625510008c00848.m3u8
+#EXTINF:-1 tvg-id="SEOTV.bo@Internacional" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA2FBMVEX////+9fXoVVvpYmb4ys3xnaDeAADjHifwl5r85+jt8PqmsuHcMz3fAAvfBRLfAADnWV7Tqbygs+XGz+xecskAAKwyDY/iAADBABd3AGYEE50AFrDh5fVRZ8UAKLWcFlarE0hSJIoALa0AL7bX3fH19fUBJKfYAwbQCBqPGWFgF33mT1T0srSxACjjLzb0uLrthYj2wMP62tvzq67jKzPqcHXreHz3zM797e7kPUThDhvsf4P1jox6X6YAAKGVF1yeSYHDFDc+J5aIl9eZms7al6e2bpOuueR71+B7AAABaUlEQVR4AXSShWLDIBBAqV3osnBM6+5KGpe5/v8f7RqbvwR9OLCUUrlSZf9RAwCN1/8wJ7p+aghhIMoz/Vw/clHIy6vrhkhAbLbaHeKqm8tef0AyxWjgcDSedKYzIpHzhfgCNpar9pTlcl10LLpvtqVs2F0DAAwKSYJgICLsU6lvlVLm5qCIrSaVZVm2g4J9cnDT1EuHs8AsjDqYJP2tsjkltYAxtHLJKyF4lEh57FCGLWMyNX4Sq3TYPUlJspQetRVVA5qnRLVB3XIymRFjtN/4rMRpMZojSFbgkEu0S0GQ9qRMnVNS3I7Kmm2zrUiLfbKBjUdI2HtH3Ehzee3mdppIA1JEcXwAuLhLpV/BhpGdd8g53zsVaNx3EknUHx4bqY/iWsxNDxtPhWSXnafBsgFCgDRBKa3x2P98Cd3n5+eX1w0CrQ1MDo2353f2A990kus0RMD+oKTKSNpj/2CZGlrsX0rBxxiIAgBpeCxrBWVWQwAAAABJRU5ErkJggg==" group-title="LATINO | Entretenimiento", SEO TV
+https://fb.tv.bo/hls/SEOTVSD.m3u8
+#EXTINF:-1 tvg-id="62d08af527ce19000731eaa0" tvg-name="62d08af527ce19000731eaa0" tvg-logo="https://images.pluto.tv/channels/62d08af527ce19000731eaa0/colorLogoPNG.png" group-title="LATINO | Entretenimiento",LA FAMILIA DEL BARRIO
+https://jmp2.uk/plu-62d08af527ce19000731eaa0.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx@Default" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="LATINO | Entretenimiento", LAS ESTRELLAS
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx@Internacional" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="LATINO | Entretenimiento", LAS ESTRELLAS INTERNACIONAL MX
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/121.m3u8
+#EXTINF:-1 tvg-id="Latina.pe@Internacional" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="LATINO | Entretenimiento", LATINA PE
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="5e67d41b93312100076f3fca" tvg-name="5e67d41b93312100076f3fca" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" group-title="LATINO | Entretenimiento",LOS ARCHIVOS DEL F.B.I.
+https://jmp2.uk/plu-5e67d41b93312100076f3fca.m3u8
+#EXTINF:-1 tvg-id="5ea71d48af1d0b0007d837f4" tvg-name="5ea71d48af1d0b0007d837f4" tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png" group-title="LATINO | Entretenimiento",LOS NUEVOS DETECTIVES
+https://jmp2.uk/plu-5ea71d48af1d0b0007d837f4.m3u8
+#EXTINF:-1 tvg-id="63eb95baa99571000898a078" tvg-name="63eb95baa99571000898a078" tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" group-title="LATINO | Entretenimiento",MACGYVER
+https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
+#EXTINF:-1 tvg-id="68ffc086a530e036bc8f0305" tvg-name="68ffc086a530e036bc8f0305" tvg-logo="https://images.pluto.tv/channels/68ffc086a530e036bc8f0305/colorLogoPNG.png" group-title="LATINO | Entretenimiento",MI BELLA GENIO
+https://jmp2.uk/plu-68ffc086a530e036bc8f0305.m3u8
+#EXTINF:-1 tvg-id="5f610042272f68000867685b" tvg-name="5f610042272f68000867685b" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="LATINO | Entretenimiento",MISTERIOS SIN RESOLVER
+https://jmp2.uk/plu-5f610042272f68000867685b.m3u8
+#EXTINF:-1 tvg-id="68a3a97fd8f7693ae3f8575f" tvg-name="68a3a97fd8f7693ae3f8575f" tvg-logo="https://images.pluto.tv/channels/68a3a97fd8f7693ae3f8575f/colorLogoPNG.png" group-title="LATINO | Entretenimiento",PITUFO TV
+https://jmp2.uk/plu-68a3a97fd8f7693ae3f8575f.m3u8
+#EXTINF:-1 tvg-id="6894febddbd49c964f3b66c8" tvg-name="6894febddbd49c964f3b66c8" tvg-logo="https://images.pluto.tv/channels/6894febddbd49c964f3b66c8/colorLogoPNG.png" group-title="LATINO | Entretenimiento",PLATO DEL DIA BY ELGOURMET
+https://jmp2.uk/plu-6894febddbd49c964f3b66c8.m3u8
+#EXTINF:-1 tvg-id="5ffcc21a432945000762d06b" tvg-name="5ffcc21a432945000762d06b" tvg-logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG.png" group-title="LATINO | Entretenimiento",PLUTO.TV COMEDY CENTRAL
+https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
+#EXTINF:-1 tvg-id="5dcde0657444a40009cd2422" tvg-name="5dcde0657444a40009cd2422" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png" group-title="LATINO | Entretenimiento",PLUTO.TV ESTILO DE VIDA x BARBIE
+https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8
+#EXTINF:-1 tvg-id="5e8397936791b30007ebb5a7" tvg-name="5e8397936791b30007ebb5a7" tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" group-title="LATINO | Entretenimiento",PLUTO.TV HUMOR
+https://jmp2.uk/plu-5e8397936791b30007ebb5a7.m3u8
+#EXTINF:-1 tvg-id="5dcde27ffae9520009c0c75a" tvg-name="5dcde27ffae9520009c0c75a" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png" group-title="LATINO | Entretenimiento",PLUTO.TV INVESTIGA
+https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8
+#EXTINF:-1 tvg-id="5dcde2f53449c50009b2b4dc" tvg-name="5dcde2f53449c50009b2b4dc" tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png" group-title="LATINO | Entretenimiento",PLUTO.TV MISTERIOS
+https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8
+#EXTINF:-1 tvg-id="677d93afe650a700081e5f18" tvg-name="677d93afe650a700081e5f18" tvg-logo="https://images.pluto.tv/channels/677d93afe650a700081e5f18/colorLogoPNG.png" group-title="LATINO | Entretenimiento",POPEYE
+https://jmp2.uk/plu-677d93afe650a700081e5f18.m3u8
+#EXTINF:-1 tvg-id="RecordTV.br@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/512px-Logotipo_da_Record.png" group-title="LATINO | Entretenimiento", RECORD TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/79.m3u8
+#EXTINF:-1 tvg-id="6320ddef274b1b0007b2ee88" tvg-name="6320ddef274b1b0007b2ee88" tvg-logo="https://images.pluto.tv/channels/6320ddef274b1b0007b2ee88/colorLogoPNG.png" group-title="LATINO | Entretenimiento",REVIVE GRAN HERMANO
+https://jmp2.uk/plu-6320ddef274b1b0007b2ee88.m3u8
+#EXTINF:-1 tvg-id="SBT.br@Default" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="LATINO | Entretenimiento", SBT
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/78.m3u8
+#EXTINF:-1 tvg-id="609ae5cd48d3200007b0a98e" tvg-name="609ae5cd48d3200007b0a98e" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" group-title="LATINO | Entretenimiento",SOUTH PARK
+https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
+#EXTINF:-1 tvg-id="65df731cec9fda0008b7aa8d" tvg-name="65df731cec9fda0008b7aa8d" tvg-logo="https://images.pluto.tv/channels/65df731cec9fda0008b7aa8d/colorLogoPNG.png" group-title="LATINO | Entretenimiento",SOUTH PARK CON CARTMAN
+https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8
+#EXTINF:-1 tvg-id="65df7272ec9fda0008b7a970" tvg-name="65df7272ec9fda0008b7a970" tvg-logo="https://images.pluto.tv/channels/65df7272ec9fda0008b7a970/colorLogoPNG.png" group-title="LATINO | Entretenimiento",SOUTH PARK CON KENNY
+https://jmp2.uk/plu-65df7272ec9fda0008b7a970.m3u8
+#EXTINF:-1 tvg-id="65df73520d4561000817c29b" tvg-name="65df73520d4561000817c29b" tvg-logo="https://images.pluto.tv/channels/65df73520d4561000817c29b/colorLogoPNG.png" group-title="LATINO | Entretenimiento",SOUTH PARK CON KYLE
+https://jmp2.uk/plu-65df73520d4561000817c29b.m3u8
+#EXTINF:-1 tvg-id="65df72db18036500081a8292" tvg-name="65df72db18036500081a8292" tvg-logo="https://images.pluto.tv/channels/65df72db18036500081a8292/colorLogoPNG.png" group-title="LATINO | Entretenimiento",SOUTH PARK CON STAN
+https://jmp2.uk/plu-65df72db18036500081a8292.m3u8
+#EXTINF:-1 tvg-id="SUMTV.py@Default" tvg-logo="https://i.imgur.com/hp1rJjX.png" group-title="LATINO | Entretenimiento", SUMTV
+https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar@Internacional" tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="LATINO | Entretenimiento", Telefe [Internacional]
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/81.m3u8
+#EXTINF:-1 tvg-id="5ebacbcae43a6d000787b88e" tvg-name="5ebacbcae43a6d000787b88e" tvg-logo="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png" group-title="LATINO | Entretenimiento",THE PET COLLECTIVE
+https://jmp2.uk/plu-5ebacbcae43a6d000787b88e.m3u8
+#EXTINF:-1 tvg-id="Trece.ar@Internacional" tvg-logo="https://i.imgur.com/Vo6prbh.png" group-title="LATINO | Entretenimiento", TR3CE AR Internacional
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/23.m3u8
+#EXTINF:-1 tvg-id="TVAzteca.mx@Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="LATINO | Entretenimiento", TV AZTECA INTERNACIONAL
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="UCL.uy@Internacional" tvg-logo="https://www.lyngsat.com/logo/tv/uu/ucl-tv-py.png" group-title="LATINO | Entretenimiento", UCL
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+#EXTINF:-1 tvg-id="VSsports.py@Eventos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl2pMfGcpVpIrkA5AggfRnWQZHWZpdpoL7gQ&s" group-title="LATINO | Entretenimiento", VS Sports [Solo Eventos]
+https://copacogen.desdeparaguay.net/gentv/gentv_py_baja/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-id="NandejaraNee.py@Default" tvg-logo="https://i.imgur.com/VFxuBdL.jpg" group-title="LATINO | Entretenimiento", ÑANDEJARA ÑE´E
+https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="6759ee82bd523200083b4f0f" tvg-name="6759ee82bd523200083b4f0f" tvg-logo="https://images.pluto.tv/channels/6759ee82bd523200083b4f0f/colorLogoPNG.png" group-title="LATINO | Infantil",AVATAR: LA LEYENDA DE AANG 24/7
+https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
+#EXTINF:-1 tvg-id="619d5e6a093e7c0007489211" tvg-name="619d5e6a093e7c0007489211" tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" group-title="LATINO | Infantil",BABY SHARK TV
+https://jmp2.uk/plu-619d5e6a093e7c0007489211.m3u8
+#EXTINF:-1 tvg-id="BabyShark.int@Default" tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" group-title="LATINO | Infantil", BABY SHARK TV
+https://stitcher.pluto.tv/stitch/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1b8a1e28-ff83-11f0-9944-ced16f20231a
+#EXTINF:-1 tvg-id="BabyTV.int@Default" tvg-logo="https://i.imgur.com/4BDJ5FT.png" group-title="LATINO | Infantil", BABYTV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/11.m3u8
+#EXTINF:-1 tvg-id="6254598f5083f800076d8563" tvg-name="6254598f5083f800076d8563" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="LATINO | Infantil",BOB ESPONJA 24/7
+https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
+#EXTINF:-1 tvg-id="5f4d3d06fb60d8000781fce8" tvg-name="5f4d3d06fb60d8000781fce8" tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png" group-title="LATINO | Infantil",EL REINO INFANTIL
+https://jmp2.uk/plu-5f4d3d06fb60d8000781fce8.m3u8
+#EXTINF:-1 tvg-id="ReinoInfantil.la@Default" tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png" group-title="LATINO | Infantil", EL REINO INFANTIL
+https://stitcher.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1b8a1e28-ff83-11f0-9944-ced16f20231a
+#EXTINF:-1 tvg-id="66c79221b1a34600087e264d" tvg-name="66c79221b1a34600087e264d" tvg-logo="https://images.pluto.tv/channels/66c79221b1a34600087e264d/colorLogoPNG.png" group-title="LATINO | Infantil",HEY ARNOLD! 24/7
+https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
+#EXTINF:-1 tvg-id="620ff0a01f9e8700076c6f9d" tvg-name="620ff0a01f9e8700076c6f9d" tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png" group-title="LATINO | Infantil",ICARLY 24/7
+https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
+#EXTINF:-1 tvg-id="5fcea93ffcf94500071c4b2f" tvg-name="5fcea93ffcf94500071c4b2f" tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png" group-title="LATINO | Infantil",KENAN Y KEL 24/7
+https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8
+#EXTINF:-1 tvg-id="63dd5d7a4e83e700088fbca8" tvg-name="63dd5d7a4e83e700088fbca8" tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png" group-title="LATINO | Infantil",LAS TORTUGAS NINJA 24/7
+https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
+#EXTINF:-1 tvg-id="6322099c822bbc00074857db" tvg-name="6322099c822bbc00074857db" tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG.png" group-title="LATINO | Infantil",LOS PADRINOS MAGICOS 24/7
+https://jmp2.uk/plu-6322099c822bbc00074857db.m3u8
+#EXTINF:-1 tvg-id="NickClassics.la@Default" tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="LATINO | Infantil", NICK CLASICS LA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6824cda00101510f9eeaa011livestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=PY&sid=22941a63-f69a-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="NickJr.la@Default" tvg-logo="https://i.imgur.com/OmmWgcr.png" group-title="LATINO | Infantil", NICK JR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=PY&sid=22941a63-f69a-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="PlutoKids.int@Default" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="LATINO | Infantil", PLUTO KIDS
+https://stitcher.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1b8a1e28-ff83-11f0-9944-ced16f20231a
+#EXTINF:-1 tvg-id="5dcde2ac4bc6c500094ab45b" tvg-name="5dcde2ac4bc6c500094ab45b" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="LATINO | Infantil",PLUTO.TV JUNIOR
+https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8
+#EXTINF:-1 tvg-id="5dd6dae8ce788b0009eaf77b" tvg-name="5dd6dae8ce788b0009eaf77b" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="LATINO | Infantil",PLUTO.TV KIDS
+https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
+#EXTINF:-1 tvg-id="5ddd7cb2cbb9010009b4fe32" tvg-name="5ddd7cb2cbb9010009b4fe32" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png" group-title="LATINO | Infantil",PLUTO.TV NICK JR.
+https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
+#EXTINF:-1 tvg-id="6824cda00101510f9eeaa011" tvg-name="6824cda00101510f9eeaa011" tvg-logo="https://images.pluto.tv/channels/6824cda00101510f9eeaa011/colorLogoPNG.png" group-title="LATINO | Infantil",PLUTO.TV NICKREWIND
+https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
+#EXTINF:-1 tvg-id="645952687cb4b100084ed52e" tvg-name="645952687cb4b100084ed52e" tvg-logo="https://images.pluto.tv/channels/645952687cb4b100084ed52e/colorLogoPNG.png" group-title="LATINO | Infantil",PLUTO.TV NICKTOONS
+https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
+#EXTINF:-1 tvg-id="5fab09a8749b1a00077d35d2" tvg-name="5fab09a8749b1a00077d35d2" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG.png" group-title="LATINO | Infantil",PLUTO.TV TEENNICK
+https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
+#EXTINF:-1 tvg-id="5ea7215005d66d0007e8128a" tvg-name="5ea7215005d66d0007e8128a" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" group-title="LATINO | Infantil",RUGRATS 24/7
+https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
+#EXTINF:-1 tvg-id="TeenNick.la@Default" tvg-logo="https://i.imgur.com/KZq73CE.png" group-title="LATINO | Infantil", TEENNICK
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2livestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=PY&sid=22941a63-f69a-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="ToonGoogles.int@Default" tvg-logo="https://play-lh.googleusercontent.com/CwSMIWAAxtjCgAnv8GHlUQOcuZe9qQw7_Ho0jjE0FYrPHMEKCmZjDeclxjNJK_LO6g=w240-h480-rw" group-title="LATINO | Infantil", TOON GOOGLES
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
+#EXTINF:-1 tvg-id="Tooncast.la@Default" tvg-logo="https://i.imgur.com/3yXRbQy.png" group-title="LATINO | Infantil", TOONCAST
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8
+#EXTINF:-1 tvg-id="6868152657543d1f8be4ece3" tvg-name="6868152657543d1f8be4ece3" tvg-logo="https://images.pluto.tv/channels/6868152657543d1f8be4ece3/colorLogoPNG.png" group-title="LATINO | Musica",CONCERT CHANNEL
+https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
+#EXTINF:-1 tvg-id="StingrayQello.ca@Default" tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" group-title="LATINO | Musica", Conciertos Por Stingray
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="DismarRadioTV.py@Default" tvg-logo="https://i.imgur.com/KOuxdMD.png" group-title="LATINO | Musica", Dismar Radio TV
+https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
+#EXTINF:-1 tvg-id="E40TV.py@Default" tvg-logo="https://i.ibb.co/jz9XkvP/e40.png" group-title="LATINO | Musica", E40 TV
+https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="HEI.py@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/HeiNetwork.jpg/250px-HeiNetwork.jpg" group-title="LATINO | Musica", HEI
+https://rds3gen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-id="HEINow.py@Default" tvg-logo="https://i.imgur.com/oMHiGRN.png" group-title="LATINO | Musica", HEI NOW
+https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-id="HTV.la@Default" tvg-logo="https://i.imgur.com/NlKFNHS.png" group-title="LATINO | Musica", HTV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/40.m3u8
+#EXTINF:-1 tvg-id="KpopMix.kr@Default" tvg-logo="https://tvomix.com/Logos/Kpopmix.png" group-title="LATINO | Musica", K-POP MIX
+https://cloud.tvomix.com/KPOPMIX/index.m3u8
+#EXTINF:-1 tvg-id="KpopTVPlay.kr@Default" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="LATINO | Musica", K-POP TV PLAY
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayKaraoke.ca@Default" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="LATINO | Musica", Karaoke Por Stingray
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="6047fabfce6e8e00070bcc9f" tvg-name="6047fabfce6e8e00070bcc9f" tvg-logo="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png" group-title="LATINO | Musica",MTV BIGGEST POP
+https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
+#EXTINF:-1 tvg-id="66a11a21a79dea0008aa90ca" tvg-name="66a11a21a79dea0008aa90ca" tvg-logo="https://images.pluto.tv/channels/66a11a21a79dea0008aa90ca/colorLogoPNG.png" group-title="LATINO | Musica",MTV CLASSICS
+https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
+#EXTINF:-1 tvg-id="MTVConMiEx.la@Default" tvg-logo="https://images.pluto.tv/channels/638693db857364000781b471/colorLogoPNG.png" group-title="LATINO | Musica", MTV Con Mi EX
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/638693db857364000781b471/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=f17a9acd-5a2e-4e80-acde-7f6bbea7675b
+#EXTINF:-1 tvg-id="62b218fc511d4b00070ddc0c" tvg-name="62b218fc511d4b00070ddc0c" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" group-title="LATINO | Musica",MTV FLOW LATINO
+https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
+#EXTINF:-1 tvg-id="MTVFlowLatino.la@Default" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" group-title="LATINO | Musica", MTV Flow Latino
+https://is.gd/BIjHuV?.m3u8
+#EXTINF:-1 tvg-id="MTV.jp@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/MTV_New_Official_Logo_2021.png" group-title="LATINO | Musica", MTV JAPAN
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+#EXTINF:-1 tvg-id="66a01b52a4ee27000808ea36" tvg-name="66a01b52a4ee27000808ea36" tvg-logo="https://images.pluto.tv/channels/66a01b52a4ee27000808ea36/colorLogoPNG.png" group-title="LATINO | Musica",MTV ROCKS
+https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
+#EXTINF:-1 tvg-id="MTVRocks.au@Default" tvg-logo="https://static.wikia.nocookie.net/logofanon2/images/c/c7/MTV_Rocks_%282021-present%29.jpg/revision/latest?cb=20230624211550" group-title="LATINO | Musica", MTV Rocks AU
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66a01b52a4ee27000808ea36/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=b5544a3f-5998-4392-a54d-4c945e8a6366
+#EXTINF:-1 tvg-id="5d14fdb8ca91eedee1633117" tvg-name="5d14fdb8ca91eedee1633117" tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="LATINO | Musica",MTV SPANKIN´ NEW
+https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
+#EXTINF:-1 tvg-id="NewKpop2.kr@Default" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20251014T230117SQUARE.png" group-title="LATINO | Musica", NEW KPOP
+https://jmp2.uk/stvp-USAJ3000013FJ
+#EXTINF:-1 tvg-id="SMTOWN.kr@Default" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US10000135V_20260210T002209SQUARE.png" group-title="LATINO | Musica", SMTOWN
+https://jmp2.uk/stvp-US10000135V
+#EXTINF:-1 tvg-id="StingrayClassica.fr@Default" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350002623_20250121T101152SQUARE.png" group-title="LATINO | Musica", Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayCMusic.ca@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" group-title="LATINO | Musica", Stingray CMusic
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="5f85ca40eda1b10007b967cd" tvg-name="5f85ca40eda1b10007b967cd" tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" group-title="LATINO | Musica",STINGRAY CONCIERTOS
+https://jmp2.uk/plu-5f85ca40eda1b10007b967cd.m3u8
+#EXTINF:-1 tvg-id="StingrayDanceHits.ca@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" group-title="LATINO | Musica", Stingray Dance Hits
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayDJazz.fr@Default" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500025GS_20240826T191202SQUARE.png" group-title="LATINO | Musica", Stingray DJAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayEasy.ca@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" group-title="LATINO | Musica", Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHitList.ca@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" group-title="LATINO | Musica", Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHolidayHits.ca@Default" tvg-logo="https://i.imgur.com/4xVVKH8.png" group-title="LATINO | Musica", Stingray Holiday Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHoliday.ca@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" group-title="LATINO | Musica", Stingray Holidayscapes
+https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHotCountry.ca@Default" tvg-logo="https://i.imgur.com/PZhxyIT.png" group-title="LATINO | Musica", Stingray Hot Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca@Default" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/7791905f-9f8d-45ca-8ddd-a808cab7eb24.jpeg" group-title="LATINO | Musica", Stingray Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayPopAdult.ca@Default" tvg-logo="https://i.imgur.com/H2ugC9L.png" group-title="LATINO | Musica", Stingray Pop Adult
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayRockAlternative.ca@Default" tvg-logo="https://i.imgur.com/mt8ulVX.png" group-title="LATINO | Musica", Stingray Rock Alternative
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayRomanceLatino.la@Default" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500017CE_20250630T232445SQUARE.png" group-title="LATINO | Musica", Stingray Romance Latino
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingraySoulRnB.ca@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" group-title="LATINO | Musica", Stingray Soul & RnB
+https://lotus.stingray.com/manifest/ose-124ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingraySoulStorm.ca@Default" tvg-logo="https://i.imgur.com/dU1KC3f.png" group-title="LATINO | Musica", Stingray Soul Storm
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="63dac1b78795f300086d5ca6" tvg-name="63dac1b78795f300086d5ca6" tvg-logo="https://images.pluto.tv/channels/63dac1b78795f300086d5ca6/colorLogoPNG.png" group-title="LATINO | Musica",STINGRAY TIKTOK RADIO
+https://jmp2.uk/plu-63dac1b78795f300086d5ca6.m3u8
+#EXTINF:-1 tvg-id="StingrayKpop.kr@Default" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500016NH_20250630T232451SQUARE.png" group-title="LATINO | Musica", Stingray Today's K-Pop
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayLatinPop.la@Default" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500009Y3_20250630T232530SQUARE.png" group-title="LATINO | Musica", Stingray Today's Latin Pop
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayUrbanBeat.ca@Default" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="LATINO | Musica", Stingray Urban Beat
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="TikTokRadio.la@Default" tvg-logo="https://yt3.googleusercontent.com/EYhtkLenzFzU4DV74Ky1uRkUEErG5_hYzLzqgViumxkhdKA-Efo_c0qXknp9C8RpQWmJ29mQuZc=s160-c-k-c0x00ffffff-no-rj" group-title="LATINO | Musica", TIKTOK Radio LA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63dac1b78795f300086d5ca6livestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=22941a63-f69a-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="TraceBrazil.br@SD" tvg-logo="https://i.imgur.com/DFBocPu.png" group-title="LATINO | Musica", Trace Brazil SD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="TraceLatina.la@SD" tvg-logo="https://i.imgur.com/CUVAi4u.png" group-title="LATINO | Musica", Trace Latina SD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr@HD" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="LATINO | Musica", Trace Urban HD
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr@SD" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="LATINO | Musica", Trace Urban SD
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="TropicaliaTV.py@HD" tvg-logo="https://i.imgur.com/oMML5Ue.png" group-title="LATINO | Musica", TROPICALIA TV HD
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8
+#EXTINF:-1 tvg-id="VenusMedia.py@HD" tvg-logo="https://i.imgur.com/XwmUbfp.png" group-title="LATINO | Musica", VENUS MEDIA HD
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/66.m3u8
+#EXTINF:-1 tvg-id="VenusMedia.py@SD" tvg-logo="https://i.imgur.com/XwmUbfp.png" group-title="LATINO | Musica", VENUS MEDIA SD
+https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
+#EXTINF:-1 tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-name="5fd7bca3e0a4ee0007a38e8c" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="LATINO | Musica",VEVO 2KS
+https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
+#EXTINF:-1 tvg-id="5f32f26bcd8aea00071240e5" tvg-name="5f32f26bcd8aea00071240e5" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="LATINO | Musica",VEVO 70S
+https://jmp2.uk/plu-5f32f26bcd8aea00071240e5.m3u8
+#EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" tvg-name="5fd7b8bf927e090007685853" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="LATINO | Musica",VEVO 80S
+https://jmp2.uk/plu-5fd7b8bf927e090007685853.m3u8
+#EXTINF:-1 tvg-id="5fd7bb1f86d94a000796e2c2" tvg-name="5fd7bb1f86d94a000796e2c2" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="LATINO | Musica",VEVO 90S
+https://jmp2.uk/plu-5fd7bb1f86d94a000796e2c2.m3u8
+#EXTINF:-1 tvg-id="5da0d75e84830900098a1ea0" tvg-name="5da0d75e84830900098a1ea0" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" group-title="LATINO | Musica",VEVO COUNTRY
+https://jmp2.uk/plu-5da0d75e84830900098a1ea0.m3u8
+#EXTINF:-1 tvg-id="VevoHipHopRnBDE.de@Default" tvg-logo="https://yt3.googleusercontent.com/xwNvRXCTDFU0CjZPERoZsKLkVtRDgag7m40ItyeeacLYRvYGC-kdRu4z1Vp3nBpEPZvZXZbFgg=s120-c-k-c0x00ffffff-no-rj" group-title="LATINO | Musica", Vevo Hip-Hop & R&B DE
+https://amg00056-amg00056c14-rakuten-fr-3244.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevohiphopandrbfr-rakutenfr/playlist.m3u8
+#EXTINF:-1 tvg-id="64d161c93c785e0008df575e" tvg-name="64d161c93c785e0008df575e" tvg-logo="https://images.pluto.tv/channels/64d161c93c785e0008df575e/colorLogoPNG.png" group-title="LATINO | Musica",VEVO ICONOS LATINOS
+https://jmp2.uk/plu-64d161c93c785e0008df575e.m3u8
+#EXTINF:-1 tvg-id="VevoIconosLatinos.la@Default" tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="LATINO | Musica", Vevo Iconos Latinos
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d161c93c785e0008df575e/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=06601cb4-8457-445a-9eef-ef7e1a4377c5&serverSideAds=false
+#EXTINF:-1 tvg-id="VevoLatino.la@Default" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20251013T235748SQUARE.png" group-title="LATINO | Musica", Vevo Latino
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5d93b635b43dd1a399b39eee" tvg-name="5d93b635b43dd1a399b39eee" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="LATINO | Musica",VEVO POP
+https://jmp2.uk/plu-5d93b635b43dd1a399b39eee.m3u8
+#EXTINF:-1 tvg-id="VevoPopDE.de@Default" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="LATINO | Musica", Vevo Pop Deutsch
+https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VevoPopES.es@Default" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="LATINO | Musica", Vevo Pop Español
+https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VevoPopIT.it@Default" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="LATINO | Musica", Vevo Pop Italian
+https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5da0d83f66c9700009b96d0e" tvg-name="5da0d83f66c9700009b96d0e" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/colorLogoPNG.png" group-title="LATINO | Musica",VEVO R&B
+https://jmp2.uk/plu-5da0d83f66c9700009b96d0e.m3u8
+#EXTINF:-1 tvg-id="64dab5fe35425100080e2991" tvg-name="64dab5fe35425100080e2991" tvg-logo="https://images.pluto.tv/channels/64dab5fe35425100080e2991/colorLogoPNG.png" group-title="LATINO | Musica",VEVO REGIONAL MX
+https://jmp2.uk/plu-64dab5fe35425100080e2991.m3u8
+#EXTINF:-1 tvg-id="VevoRegionalMX.mx@Default" tvg-logo="https://images.pluto.tv/channels/64dab5fe35425100080e2991/colorLogoPNG.png" group-title="LATINO | Musica", Vevo Regional MX
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64dab5fe35425100080e2991/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=150a018c-ed5a-4a4e-bb31-3b2150d04256&serverSideAds=false
+#EXTINF:-1 tvg-id="61d4b38226b8a50007fe03a6" tvg-name="61d4b38226b8a50007fe03a6" tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG.png" group-title="LATINO | Musica",VEVO ROCK
+https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8
+#EXTINF:-1 tvg-id="61d4c2817a823d00070ba53e" tvg-name="61d4c2817a823d00070ba53e" tvg-logo="https://images.pluto.tv/channels/61d4c2817a823d00070ba53e/colorLogoPNG.png" group-title="LATINO | Musica",VEVO TRUE SCHOOL HIP-HOP
+https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
+#EXTINF:-1 tvg-id="VMTVMusic.la@Default" tvg-logo="https://i.imgur.com/Dvo1b82.png" group-title="LATINO | Musica", VMTV Music
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+#EXTINF:-1 tvg-id="USBB320000647" tvg-name="USBB320000647" tvg-logo="" group-title="LATINO | Musica",XITE 8OS FLASHBACK
+https://d1n314cytqn9r3.cloudfront.net/XITE_80s_Flashback.m3u8
+#EXTINF:-1 tvg-id="USBB3200007AK" tvg-name="USBB3200007AK" tvg-logo="https://i.imgur.com/vwpOzuz.png" group-title="LATINO | Musica",XITE 90S THROWBACK
+https://d284aawtm5vi48.cloudfront.net/XITE_90s_Throwback.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/coSrUwV.png" group-title="LATINO | Musica",XITE CELEBRIDADES
+https://dt1s4l2cmiyit.cloudfront.net/XITE_Celebrates.m3u8
+#EXTINF:-1 tvg-id="623b92a2ccefed0007b1db48" tvg-name="623b92a2ccefed0007b1db48" tvg-logo="https://images.pluto.tv/channels/623b92a2ccefed0007b1db48/colorLogoPNG.png" group-title="LATINO | Musica",XITE CLASSIC COUNTRY
+https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8
+#EXTINF:-1 tvg-id="623b93628e6ded0007337d4d" tvg-name="623b93628e6ded0007337d4d" tvg-logo="https://images.pluto.tv/channels/623b93628e6ded0007337d4d/colorLogoPNG.png" group-title="LATINO | Musica",XITE GOSPEL
+https://jmp2.uk/plu-623b93628e6ded0007337d4d.m3u8
+#EXTINF:-1 tvg-id="USBB2300003JZ" tvg-name="USBB2300003JZ" tvg-logo="https://provider-static.plex.tv/epg/cms/production/927dd614-017d-49dd-9eb9-0ed79d09084e/xitejustchill_logo_light_-_Arlette_FiranRDX.png" group-title="LATINO | Musica",XITE JUST CHILL
+https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
+#EXTINF:-1 tvg-id="USBD3300004RH" tvg-name="USBD3300004RH" tvg-logo="https://i.imgur.com/N51Rp7E.png" group-title="LATINO | Musica",XITE LIVE
+https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-id="USBD3300007PB" tvg-name="USBD3300007PB" tvg-logo="https://i.imgur.com/2qyl2y3.png" group-title="LATINO | Musica",XITE NUEVO LATINO
+https://d3bsgqzbpkrvbb.cloudfront.net/XITE_Nuevo_Latino.m3u8
+#EXTINF:-1 tvg-id="XITENuevoLatino.la@Default" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300007PB_20241203T004813SQUARE.png" group-title="LATINO | Musica", XITE Nuevo Latino
+https://jmp2.uk/stvp-USBD3300007PB
+#EXTINF:-1 tvg-id="623a1b5188ecdc0007c9ef5a" tvg-name="623a1b5188ecdc0007c9ef5a" tvg-logo="https://images.pluto.tv/channels/623a1b5188ecdc0007c9ef5a/colorLogoPNG.png" group-title="LATINO | Musica",XITE ROCK ON
+https://jmp2.uk/plu-623a1b5188ecdc0007c9ef5a.m3u8
+#EXTINF:-1 tvg-id="USBD3300010L9" tvg-name="USBD3300010L9" tvg-logo="https://i.imgur.com/bwmIEgG.png" group-title="LATINO | Musica",XITE SIEMPRE LATINO
+https://d1xc25jm9e0l4b.cloudfront.net/XITE_Siempre_Latino.m3u8
+#EXTINF:-1 tvg-id="673f7446030a2c0008231bc3" tvg-name="673f7446030a2c0008231bc3" tvg-logo="https://images.pluto.tv/channels/673f7446030a2c0008231bc3/colorLogoPNG.png" group-title="LATINO | Noticias",C4 EN ALERTA
+https://jmp2.uk/plu-673f7446030a2c0008231bc3.m3u8
+#EXTINF:-1 tvg-id="673248f9030a2c0008033af8" tvg-name="673248f9030a2c0008033af8" tvg-logo="https://images.pluto.tv/channels/673248f9030a2c0008033af8/colorLogoPNG.png" group-title="LATINO | Noticias",CNN XPRESS
+https://jmp2.uk/plu-673248f9030a2c0008033af8.m3u8
+#EXTINF:-1 tvg-id="60492e6d7f3f560007ab0f62" tvg-name="60492e6d7f3f560007ab0f62" tvg-logo="https://images.pluto.tv/channels/60492e6d7f3f560007ab0f62/colorLogoPNG.png" group-title="LATINO | Noticias",ESTRELLA NEWS
+https://jmp2.uk/plu-60492e6d7f3f560007ab0f62.m3u8
+#EXTINF:-1 tvg-id="619d59b7cbef25000728221c" tvg-name="619d59b7cbef25000728221c" tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png" group-title="LATINO | Noticias",EURONEWS
+https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8
+#EXTINF:-1 tvg-id="France24.es@Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/250px-France24.png" group-title="LATINO | Noticias", FRANCE 24
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="652e922db4b047000825f975" tvg-name="652e922db4b047000825f975" tvg-logo="https://images.pluto.tv/channels/652e922db4b047000825f975/colorLogoPNG.png" group-title="LATINO | Noticias",MILENIO
+https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
+#EXTINF:-1 tvg-id="67d9b0ebc290c9499046e88f" tvg-name="67d9b0ebc290c9499046e88f" tvg-logo="https://images.pluto.tv/channels/67d9b0ebc290c9499046e88f/colorLogoPNG.png" group-title="LATINO | Noticias",RCN NOTICIAS
+https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
+#EXTINF:-1 tvg-id="63d2c140c111bc0008cb890b" tvg-name="63d2c140c111bc0008cb890b" tvg-logo="https://images.pluto.tv/channels/63d2c140c111bc0008cb890b/colorLogoPNG.png" group-title="LATINO | Noticias",TELEFORMULA
+https://jmp2.uk/plu-63d2c140c111bc0008cb890b.m3u8
+#EXTINF:-1 tvg-id="Teleformula.mx@Default" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="LATINO | Noticias", TELEFORMULA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63d2c140c111bc0008cb890blivestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=PY&sid=22941a63-f69a-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="699769fa19ac123965833fd3" tvg-name="699769fa19ac123965833fd3" tvg-logo="https://images.pluto.tv/channels/699769fa19ac123965833fd3/colorLogoPNG.png" group-title="LATINO | Novelas",CUANDO LOS ANGELES CAEN
+https://jmp2.uk/plu-699769fa19ac123965833fd3.m3u8
+#EXTINF:-1 tvg-id="699762a0172a5c3296892d92" tvg-name="699762a0172a5c3296892d92" tvg-logo="https://images.pluto.tv/channels/699762a0172a5c3296892d92/colorLogoPNG.png" group-title="LATINO | Novelas",JUANA LA VIRGEN
+https://jmp2.uk/plu-699762a0172a5c3296892d92.m3u8
+#EXTINF:-1 tvg-id="63211ba9cad976000794f988" tvg-name="63211ba9cad976000794f988" tvg-logo="https://images.pluto.tv/channels/63211ba9cad976000794f988/colorLogoPNG.png" group-title="LATINO | Novelas",LA SELECC10N
+https://jmp2.uk/plu-63211ba9cad976000794f988.m3u8
+#EXTINF:-1 tvg-id="699763787cfe0ffadadd106f" tvg-name="699763787cfe0ffadadd106f" tvg-logo="https://images.pluto.tv/channels/699763787cfe0ffadadd106f/colorLogoPNG.png" group-title="LATINO | Novelas",MI GORDA BELLA
+https://jmp2.uk/plu-699763787cfe0ffadadd106f.m3u8
+#EXTINF:-1 tvg-id="5dcde0cc2efd2700090b7ff4" tvg-name="5dcde0cc2efd2700090b7ff4" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="LATINO | Novelas",PLUTO.TV NOVELAS
+https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8
+#EXTINF:-1 tvg-id="686eed4c677f2f98b4a1ccd4" tvg-name="686eed4c677f2f98b4a1ccd4" tvg-logo="https://images.pluto.tv/channels/686eed4c677f2f98b4a1ccd4/colorLogoPNG.png" group-title="LATINO | Novelas",PLUTO.TV NOVELAS CONTINENTALES
+https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8
+#EXTINF:-1 tvg-id="6474a7958e3c0a0008b97cae" tvg-name="6474a7958e3c0a0008b97cae" tvg-logo="https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG.png" group-title="LATINO | Novelas",PLUTO.TV NOVELAS DE MEXICO
+https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
+#EXTINF:-1 tvg-id="6474a86917f5e100089a0c1c" tvg-name="6474a86917f5e100089a0c1c" tvg-logo="https://images.pluto.tv/channels/6474a86917f5e100089a0c1c/colorLogoPNG.png" group-title="LATINO | Novelas",PLUTO.TV NOVELAS DE VENEZUELA
+https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
+#EXTINF:-1 tvg-id="69de4ad924a6d521f8b0a348" tvg-name="69de4ad924a6d521f8b0a348" tvg-logo="https://images.pluto.tv/channels/69de4ad924a6d521f8b0a348/colorLogoPNG.png" group-title="LATINO | Novelas",RCN+
+https://jmp2.uk/plu-69de4ad924a6d521f8b0a348.m3u8
+#EXTINF:-1 tvg-id="604bdf4e6d0abc0007ba77ad" tvg-name="604bdf4e6d0abc0007ba77ad" tvg-logo="https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png" group-title="LATINO | Novelas",SIN ##### NO HAY PARAÍSO
+https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
+#EXTINF:-1 tvg-id="61b793ccf571b80007b7a610" tvg-name="61b793ccf571b80007b7a610" tvg-logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png" group-title="LATINO | Peliculas",ADRENALINA PURA
+https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
+#EXTINF:-1 tvg-id="CineFamiliar.la@Default" tvg-logo="https://i.imgur.com/ZgP2hE3.png" group-title="LATINO | Peliculas", Cine Familiar
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/14.m3u8
+#EXTINF:-1 tvg-id="CineHispano.la@Default" tvg-logo="https://i.imgur.com/tfgyfrw.png" group-title="LATINO | Peliculas", Cine Hispano
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/15.m3u8
+#EXTINF:-1 tvg-id="CinePremium.la@Default" tvg-logo="https://i.imgur.com/tC3jGd4.png" group-title="LATINO | Peliculas", Cine Premium
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/16.m3u8
+#EXTINF:-1 tvg-id="5e972a21ad709d00074195ba" tvg-name="5e972a21ad709d00074195ba" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" group-title="LATINO | Peliculas",ESTRELLAS DE ACCIÓN
+https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
+#EXTINF:-1 tvg-id="FilmArts.la@Default" tvg-logo="https://television.com.ar/wp-content/uploads/legacy/2016/filmandarts.jpg" group-title="LATINO | Peliculas", FILM & ARTS
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/29.m3u8
+#EXTINF:-1 tvg-id="5dfcde52d28b09000a42d7a2" tvg-name="5dfcde52d28b09000a42d7a2" tvg-logo="https://images.pluto.tv/channels/5dfcde52d28b09000a42d7a2/colorLogoPNG.png" group-title="LATINO | Peliculas",PLUTO.TV A LA MEXICANA
+https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8
+#EXTINF:-1 tvg-id="5dcb62e63d4d8f0009f36881" tvg-name="5dcb62e63d4d8f0009f36881" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="LATINO | Peliculas",PLUTO.TV CINE ACCIÓN
+https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8
+#EXTINF:-1 tvg-id="609059dc63be6e0007b4eca6" tvg-name="609059dc63be6e0007b4eca6" tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png" group-title="LATINO | Peliculas",PLUTO.TV CINE CLÁSICO
+https://jmp2.uk/plu-609059dc63be6e0007b4eca6.m3u8
+#EXTINF:-1 tvg-id="5dcdde78f080d900098550e4" tvg-name="5dcdde78f080d900098550e4" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" group-title="LATINO | Peliculas",PLUTO.TV CINE COMEDIA
+https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8
+#EXTINF:-1 tvg-id="624af40c004f8000079b784d" tvg-name="624af40c004f8000079b784d" tvg-logo="https://images.pluto.tv/channels/624af40c004f8000079b784d/colorLogoPNG.png" group-title="LATINO | Peliculas",PLUTO.TV CINE CRIMEN
+https://jmp2.uk/plu-624af40c004f8000079b784d.m3u8
+#EXTINF:-1 tvg-id="5dcddfcb229eff00091b6bdf" tvg-name="5dcddfcb229eff00091b6bdf" tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png" group-title="LATINO | Peliculas",PLUTO.TV CINE DRAMA
+https://jmp2.uk/plu-5dcddfcb229eff00091b6bdf.m3u8
+#EXTINF:-1 tvg-id="5dcde437229eff00091b6c30" tvg-name="5dcde437229eff00091b6c30" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="LATINO | Peliculas",PLUTO.TV CINE ESTELAR
+https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8
+#EXTINF:-1 tvg-id="5dd6ddb30a1d8a000908ed4c" tvg-name="5dd6ddb30a1d8a000908ed4c" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png" group-title="LATINO | Peliculas",PLUTO.TV CINE FAMILIA
+https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
+#EXTINF:-1 tvg-id="6806d519fea7414f33f57016" tvg-name="6806d519fea7414f33f57016" tvg-logo="https://images.pluto.tv/channels/6806d519fea7414f33f57016/colorLogoPNG.png" group-title="LATINO | Peliculas",PLUTO.TV CINE INSPIRADOR
+https://jmp2.uk/plu-6806d519fea7414f33f57016.m3u8
+#EXTINF:-1 tvg-id="5dd7ea2aeab5230009986735" tvg-name="5dd7ea2aeab5230009986735" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="LATINO | Peliculas",PLUTO.TV CINE ROMANCE
+https://jmp2.uk/plu-5dd7ea2aeab5230009986735.m3u8
+#EXTINF:-1 tvg-id="5ddc4e8bcbb9010009b4e84f" tvg-name="5ddc4e8bcbb9010009b4e84f" tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png" group-title="LATINO | Peliculas",PLUTO.TV CINE SUSPENSO
+https://jmp2.uk/plu-5ddc4e8bcbb9010009b4e84f.m3u8
+#EXTINF:-1 tvg-id="5dcddf1ed95e740009fef7ab" tvg-name="5dcddf1ed95e740009fef7ab" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="LATINO | Peliculas",PLUTO.TV CINE TERROR
+https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
+#EXTINF:-1 tvg-id="5defde6d6c07b50009cf0757" tvg-name="5defde6d6c07b50009cf0757" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png" group-title="LATINO | Peliculas",PLUTO.TV NUESTRO CINE
+https://jmp2.uk/plu-5defde6d6c07b50009cf0757.m3u8
+#EXTINF:-1 tvg-id="5f2817d3d7573a00080f9175" tvg-name="5f2817d3d7573a00080f9175" tvg-logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png" group-title="LATINO | Peliculas",PLUTO.TV SCI-FI
+https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8
+#EXTINF:-1 tvg-id="62c5d80dc6de440007e033eb" tvg-name="62c5d80dc6de440007e033eb" tvg-logo="https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png" group-title="LATINO | Peliculas",RUNTIME
+https://jmp2.uk/plu-62c5d80dc6de440007e033eb.m3u8
+#EXTINF:-1 tvg-id="UniversalCinema.la@Default" tvg-logo="https://i.imgur.com/XxfET68.png" group-title="LATINO | Peliculas", UNIVERSAL CINEMA
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/61.m3u8
+#EXTINF:-1 tvg-id="61a52615cbef2500072876e2" tvg-name="61a52615cbef2500072876e2" tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG.png" group-title="LATINO | Reality",ACAPULCO SHORE
+https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
+#EXTINF:-1 tvg-id="6495af324c014a000842e923" tvg-name="6495af324c014a000842e923" tvg-logo="https://images.pluto.tv/channels/6495af324c014a000842e923/colorLogoPNG.png" group-title="LATINO | Reality",DESAFIO SUPER-HUMANOS
+https://jmp2.uk/plu-6495af324c014a000842e923.m3u8
+#EXTINF:-1 tvg-id="6095ad97351eb0000754c1e6" tvg-name="6095ad97351eb0000754c1e6" tvg-logo="https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png" group-title="LATINO | Reality",HELL´S KITCHEN
+https://jmp2.uk/plu-6095ad97351eb0000754c1e6.m3u8
+#EXTINF:-1 tvg-id="5e3ddbd27091820009f86dd9" tvg-name="5e3ddbd27091820009f86dd9" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png" group-title="LATINO | Reality",MASTERCHEF
+https://jmp2.uk/plu-5e3ddbd27091820009f86dd9.m3u8
+#EXTINF:-1 tvg-id="5e46e64dc73db400094b5f0b" tvg-name="5e46e64dc73db400094b5f0b" tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png" group-title="LATINO | Reality",MINUTO PARA GANAR
+https://jmp2.uk/plu-5e46e64dc73db400094b5f0b.m3u8
+#EXTINF:-1 tvg-id="625461ef01f27a0007976ad1" tvg-name="625461ef01f27a0007976ad1" tvg-logo="https://images.pluto.tv/channels/625461ef01f27a0007976ad1/colorLogoPNG.png" group-title="LATINO | Reality",MTV CATFISH
+https://jmp2.uk/plu-625461ef01f27a0007976ad1.m3u8
+#EXTINF:-1 tvg-id="638693db857364000781b471" tvg-name="638693db857364000781b471" tvg-logo="https://images.pluto.tv/channels/638693db857364000781b471/colorLogoPNG.png" group-title="LATINO | Reality",MTV CON MI EX (LA VENGANZA DE LOS EX)
+https://jmp2.uk/plu-638693db857364000781b471.m3u8
+#EXTINF:-1 tvg-id="6851b909954170e0128bc71d" tvg-name="6851b909954170e0128bc71d" tvg-logo="https://images.pluto.tv/channels/6851b909954170e0128bc71d/colorLogoPNG.png" group-title="LATINO | Reality",MTV DATING
+https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8
+#EXTINF:-1 tvg-id="64510d3ad3fdde00080951f2" tvg-name="64510d3ad3fdde00080951f2" tvg-logo="https://images.pluto.tv/channels/64510d3ad3fdde00080951f2/colorLogoPNG.png" group-title="LATINO | Reality",MTV DRAG
+https://jmp2.uk/plu-64510d3ad3fdde00080951f2.m3u8
+#EXTINF:-1 tvg-id="5fab088b3279760007d4e4fd" tvg-name="5fab088b3279760007d4e4fd" tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" group-title="LATINO | Reality",MTV PLUTO.TV
+https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
+#EXTINF:-1 tvg-id="5de91b7ea86ee60009d89e75" tvg-name="5de91b7ea86ee60009d89e75" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png" group-title="LATINO | Reality",MTV REALITY
+https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8
+#EXTINF:-1 tvg-id="5e98a911c881310007d7aae2" tvg-name="5e98a911c881310007d7aae2" tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png" group-title="LATINO | Reality",MTV RIDICULOUSNESS
+https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8
+#EXTINF:-1 tvg-id="620fd9f4afb9a80007a9c6d5" tvg-name="620fd9f4afb9a80007a9c6d5" tvg-logo="https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png" group-title="LATINO | Reality",MTV TEEN MOM (MADRES ADOLESENTES)
+https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8
+#EXTINF:-1 tvg-id="698a45156dc3c71eb1ba6599" tvg-name="698a45156dc3c71eb1ba6599" tvg-logo="https://images.pluto.tv/channels/698a45156dc3c71eb1ba6599/colorLogoPNG.png" group-title="LATINO | Reality",PLUTO.TV AMOR Y MENTIRA
+https://jmp2.uk/plu-698a45156dc3c71eb1ba6599.m3u8
+#EXTINF:-1 tvg-id="5dd6d935d000120009bc1132" tvg-name="5dd6d935d000120009bc1132" tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/colorLogoPNG.png" group-title="LATINO | Reality",PLUTO.TV COMPETENCIAS
+https://jmp2.uk/plu-5dd6d935d000120009bc1132.m3u8
+#EXTINF:-1 tvg-id="5dcde197f6591d0009839e04" tvg-name="5dcde197f6591d0009839e04" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" group-title="LATINO | Reality",PLUTO.TV REALITY
+https://jmp2.uk/plu-5dcde197f6591d0009839e04.m3u8
+#EXTINF:-1 tvg-id="5ed6828192e8b3000743ef61" tvg-name="5ed6828192e8b3000743ef61" tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png" group-title="LATINO | Reality",WIPE OUT (HOMBRE AL AGUA)
+https://jmp2.uk/plu-5ed6828192e8b3000743ef61.m3u8
+#EXTINF:-1 tvg-id="604928d54a4f730007ff76bc" tvg-name="604928d54a4f730007ff76bc" tvg-logo="https://images.pluto.tv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png" group-title="LATINO | Series",CSI
+https://jmp2.uk/plu-604928d54a4f730007ff76bc.m3u8
+#EXTINF:-1 tvg-id="63eb9255c111bc0008fe6ec4" tvg-name="63eb9255c111bc0008fe6ec4" tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png" group-title="LATINO | Series",CSI: MIAMI
+https://jmp2.uk/plu-63eb9255c111bc0008fe6ec4.m3u8
+#EXTINF:-1 tvg-id="632b606e12a67b0007c9e371" tvg-name="632b606e12a67b0007c9e371" tvg-logo="https://images.pluto.tv/channels/632b606e12a67b0007c9e371/colorLogoPNG.png" group-title="LATINO | Series",CSI: NY
+https://jmp2.uk/plu-632b606e12a67b0007c9e371.m3u8
+#EXTINF:-1 tvg-id="6764203df433320008836bc6" tvg-name="6764203df433320008836bc6" tvg-logo="https://images.pluto.tv/channels/6764203df433320008836bc6/colorLogoPNG.png" group-title="LATINO | Series",LOS ASESINOS DE MIDSOMER 24/7
+https://jmp2.uk/plu-6764203df433320008836bc6.m3u8
+#EXTINF:-1 tvg-id="63eb947c4e83e70008ab877b" tvg-name="63eb947c4e83e70008ab877b" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" group-title="LATINO | Series",NCIS
+https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8
+#EXTINF:-1 tvg-id="67f960680072d6b187a0682e" tvg-name="67f960680072d6b187a0682e" tvg-logo="https://images.pluto.tv/channels/67f960680072d6b187a0682e/colorLogoPNG.png" group-title="LATINO | Series",NÚM3ROS
+https://jmp2.uk/plu-67f960680072d6b187a0682e.m3u8
+#EXTINF:-1 tvg-id="6185a9a88b2ce30007de5128" tvg-name="6185a9a88b2ce30007de5128" tvg-logo="https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/colorLogoPNG.png" group-title="LATINO | Series",PLUTO.TV K-DRAMAS
+https://jmp2.uk/plu-6185a9a88b2ce30007de5128.m3u8
+#EXTINF:-1 tvg-id="5dcde1317578340009b751d0" tvg-name="5dcde1317578340009b751d0" tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png" group-title="LATINO | Series",PLUTO.TV SERIES
+https://jmp2.uk/plu-5dcde1317578340009b751d0.m3u8
+#EXTINF:-1 tvg-id="6806d570c178637410ae4962" tvg-name="6806d570c178637410ae4962" tvg-logo="https://images.pluto.tv/channels/6806d570c178637410ae4962/colorLogoPNG.png" group-title="LATINO | Series",PLUTO.TV SERIES CONTINENTALES
+https://jmp2.uk/plu-6806d570c178637410ae4962.m3u8
+#EXTINF:-1 tvg-id="6479ff1c17f5e10008ad2797" tvg-name="6479ff1c17f5e10008ad2797" tvg-logo="https://images.pluto.tv/channels/6479ff1c17f5e10008ad2797/colorLogoPNG.png" group-title="LATINO | Series",PLUTO.TV SERIES DE ACCIÓN
+https://jmp2.uk/plu-6479ff1c17f5e10008ad2797.m3u8
+#EXTINF:-1 tvg-id="655f626d57fe4a00085c7c3e" tvg-name="655f626d57fe4a00085c7c3e" tvg-logo="https://images.pluto.tv/channels/655f626d57fe4a00085c7c3e/colorLogoPNG.png" group-title="LATINO | Series",PLUTO.TV SERIES DE COMEDIA
+https://jmp2.uk/plu-655f626d57fe4a00085c7c3e.m3u8
+#EXTINF:-1 tvg-id="655f62ff954b020008c91ec6" tvg-name="655f62ff954b020008c91ec6" tvg-logo="https://images.pluto.tv/channels/655f62ff954b020008c91ec6/colorLogoPNG.png" group-title="LATINO | Series",PLUTO.TV SERIES DE CRIMEN
+https://jmp2.uk/plu-655f62ff954b020008c91ec6.m3u8
+#EXTINF:-1 tvg-id="655f636d954b020008c93299" tvg-name="655f636d954b020008c93299" tvg-logo="https://images.pluto.tv/channels/655f636d954b020008c93299/colorLogoPNG.png" group-title="LATINO | Series",PLUTO.TV SERIES DE DRAMA
+https://jmp2.uk/plu-655f636d954b020008c93299.m3u8
+#EXTINF:-1 tvg-id="65662f8a2c46f300088a84cc" tvg-name="65662f8a2c46f300088a84cc" tvg-logo="https://images.pluto.tv/channels/65662f8a2c46f300088a84cc/colorLogoPNG.png" group-title="LATINO | Series",PLUTO.TV SERIES DE SCI-FI
+https://jmp2.uk/plu-65662f8a2c46f300088a84cc.m3u8
+#EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" tvg-name="5dd837642c6e9300098ad484" tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png" group-title="LATINO | Series",PLUTO.TV SERIES LATINAS
+https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8
+#EXTINF:-1 tvg-id="5de802659167b10009e7deba" tvg-name="5de802659167b10009e7deba" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" group-title="LATINO | Series",PLUTO.TV SERIES RETRO
+https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8
+#EXTINF:-1 tvg-id="6661d5424b10960008599fa3" tvg-name="6661d5424b10960008599fa3" tvg-logo="https://images.pluto.tv/channels/6661d5424b10960008599fa3/colorLogoPNG.png" group-title="LATINO | Series",PLUTO.TV TEEN K-DRAMAS
+https://jmp2.uk/plu-6661d5424b10960008599fa3.m3u8
+#EXTINF:-1 tvg-id="64ff270f30ab3300084e259c" tvg-name="64ff270f30ab3300084e259c" tvg-logo="https://images.pluto.tv/channels/64ff270f30ab3300084e259c/colorLogoPNG.png" group-title="LATINO | Series",ROOKIE BLUE: POLICÍAS NOVATOS 24/7
+https://jmp2.uk/plu-64ff270f30ab3300084e259c.m3u8
+#EXTINF:-1 tvg-id="5ec5761aabe4690007f6e047" tvg-name="5ec5761aabe4690007f6e047" tvg-logo="https://images.pluto.tv/channels/5ec5761aabe4690007f6e047/colorLogoPNG.png" group-title="LATINO | Series",STAR TREK 24/7
+https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8
+#EXTINF:-1 tvg-id="678aa0b3680721c77c5035dd" tvg-name="678aa0b3680721c77c5035dd" tvg-logo="https://images.pluto.tv/channels/678aa0b3680721c77c5035dd/colorLogoPNG.png" group-title="LATINO | Series",THE WALKING DEAD 24/7
+https://jmp2.uk/plu-678aa0b3680721c77c5035dd.m3u8
+#EXTINF:-1 tvg-id="639751f81a36b400072b8f5a" tvg-name="639751f81a36b400072b8f5a" tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png" group-title="LATINO | Series",VIVE KANAL D DRAMA
+https://jmp2.uk/plu-639751f81a36b400072b8f5a.m3u8
+#EXTINF:-1 tvg-id="66b3af1c3a4ad200081c7d03" tvg-name="66b3af1c3a4ad200081c7d03" tvg-logo="https://images.pluto.tv/channels/66b3af1c3a4ad200081c7d03/colorLogoPNG.png" group-title="LATINO | Series",Z NATION
+https://jmp2.uk/plu-66b3af1c3a4ad200081c7d03.m3u8
