@@ -1,48 +1,59 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports.png" group-title="ARGENTINA",ARG: DIRECTV SPORTS
-http://31.43.191.125:8080/VIP019951741801835368/6f7b1975f3e1/4748
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS +" tvg-logo="https://docdog.top/logo/countries/argentina/DIRECTVSPORTS+.png" group-title="ARGENTINA",ARG: DIRECTV SPORTS +
-http://31.43.191.125:8080/VIP019951741801835368/6f7b1975f3e1/4749
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS 2" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports2.png" group-title="ARGENTINA",ARG: DIRECTV SPORTS 2
-http://31.43.191.125:8080/VIP019951741801835368/6f7b1975f3e1/4750
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="ARGENTINA",ARG: ESPN
-http://31.43.191.125:8080/VIP019951741801835368/6f7b1975f3e1/4757
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2" tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="ARGENTINA",ARG: ESPN 2
-http://31.43.191.125:8080/VIP019951741801835368/6f7b1975f3e1/4758
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 3" tvg-logo="https://docdog.top/logo/countries//argentina/espn-3-ar.png" group-title="ARGENTINA",ARG: ESPN 3
-http://31.43.191.125:8080/VIP019951741801835368/6f7b1975f3e1/4759
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 2" tvg-logo="https://asiagrandiptv.us/logo/foxsport2.png" group-title="ARGENTINA",ARG: FOX SPORTS 2
-http://31.43.191.125:8080/VIP019951741801835368/6f7b1975f3e1/4765
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 3" tvg-logo="https://docdog.top/logo/countries//argentina/fox-sports-3-ar.png" group-title="ARGENTINA",ARG: FOX SPORTS 3
-http://31.43.191.125:8080/VIP019951741801835368/6f7b1975f3e1/4766
-#EXTINF:-1 tvg-id="" tvg-name="ARG: GOLF CHANNEL" tvg-logo="https://docdog.top/logo/countries//argentina/golf-channel-ar.png" group-title="ARGENTINA",ARG: GOLF CHANNEL
-http://31.43.191.125:8080/VIP019951741801835368/6f7b1975f3e1/4771
-#EXTINF:-1 tvg-id="" tvg-name="ARG: PX SPORTS" tvg-logo="https://asiagrandiptv.us/logo/pxsports.png" group-title="ARGENTINA",ARG: PX SPORTS
-http://31.43.191.125:8080/VIP019951741801835368/6f7b1975f3e1/4796
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT SPORTS" tvg-logo="https://docdog.top/logo/countries//argentina/tnt-sports-ar.png" group-title="ARGENTINA",ARG: TNT SPORTS
-http://31.43.191.125:8080/VIP019951741801835368/6f7b1975f3e1/4815
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TYC SPORTS" tvg-logo="https://docdog.top/logo/countries//argentina/tyc-sports-ar.png" group-title="ARGENTINA",ARG: TYC SPORTS
-http://31.43.191.125:8080/VIP019951741801835368/6f7b1975f3e1/4822
-#EXTINF:-1 tvg-id="" tvg-name="ARG: AMERICA 24" tvg-logo="https://docdog.top/logo/countries/argentina/america24.png" group-title="ARGENTINA",ARG: AMERICA 24
-http://31.43.191.125:8080/VIP019951741801835368/6f7b1975f3e1/4722
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 26" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL26.png" group-title="ARGENTINA",ARG: CANAL 26
-http://31.43.191.125:8080/VIP019951741801835368/6f7b1975f3e1/4731
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CRONICA" tvg-logo="https://docdog.top/logo/countries/argentina/cronica-hd-ar.png" group-title="ARGENTINA",ARG: CRONICA
-http://31.43.191.125:8080/VIP019951741801835368/6f7b1975f3e1/4746
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TELESUR" tvg-logo="https://docdog.top/logo/countries/argentina/telesur.png" group-title="ARGENTINA",ARG: TELESUR
-http://31.43.191.125:8080/VIP019951741801835368/6f7b1975f3e1/4810
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 9 SALTA" tvg-logo="https://docdog.top/logo/countries/argentina/CANALSALTA.jpg" group-title="ARGENTINA",ARG: CANAL 9 SALTA
-http://31.43.191.125:8080/VIP019951741801835368/6f7b1975f3e1/4735
-#EXTINF:-1 tvg-id="" tvg-name="ARG: EL NUEVE (CANAL 9)" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL9.png" group-title="ARGENTINA",ARG: EL NUEVE (CANAL 9)
-http://31.43.191.125:8080/VIP019951741801835368/6f7b1975f3e1/4734
-#EXTINF:-1 tvg-id="" tvg-name="ARG: EL TRECE (CANAL 13)" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL.png" group-title="ARGENTINA",ARG: EL TRECE (CANAL 13)
-http://31.43.191.125:8080/VIP019951741801835368/6f7b1975f3e1/4729
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEFE" tvg-logo="https://docdog.top/logo/countries//argentina/telefe-ar.png" group-title="ARGENTINA",ARG: TELEFE
-http://31.43.191.125:8080/VIP019951741801835368/6f7b1975f3e1/4807
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEVISION PUBLICA" tvg-logo="https://docdog.top/logo/countries/argentina/televisionpublica.png" group-title="ARGENTINA",ARG: TELEVISION PUBLICA
-http://31.43.191.125:8080/VIP019951741801835368/6f7b1975f3e1/4811
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TV PUBLICA" tvg-logo="https://docdog.top/logo/countries/argentina/tvpublica.png" group-title="ARGENTINA",ARG: TV PUBLICA
-http://31.43.191.125:8080/VIP019951741801835368/6f7b1975f3e1/4818
+
+# ===== Argentina =====
+#EXTINF:-1 tvg-id="ESPN.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Argentina",ESPN (1080p)
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-id="ESPN4.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Argentina",ESPN 4 (1080p)
+http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1 tvg-id="ESPNPremium.ar@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="Argentina",ESPN Premium HD (1080p)
+http://190.128.214.97:64333/play/a02i/index.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk@HispanicAmerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Argentina",FIFA+ Hispanic America (720p)
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+#EXTINF:57 group-title="Argentina",TyC Sports (1080p)
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+
+# ===== Argentina =====
+#EXTINF:-1 tvg-id="Canal26.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" group-title="Argentina",Canal 26 (Argentina) (1080p)
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1 tvg-id="5tv.ar@SD" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="Argentina",5tv
+https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericaTV.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" http-user-agent="Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" group-title="Argentina",America TV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8QmQf3r.png" group-title="Argentina",Cadena103.TV
+https://streamlov.alsolnet.com/cadena103/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Canal_9_Logo.svg/500px-Canal_9_Logo.svg.png" group-title="Argentina",Canal 9 Resistencia (720p)
+http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HJkSz2U.png" group-title="Argentina",Canal TDC
+https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
+#EXTINF:-1 tvg-id="CiudadMagica.ar@SD" tvg-logo="https://i.imgur.com/HJkSz2U.png" group-title="Argentina",Ciudad Magica (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
+#EXTINF:-1 tvg-id="1358" tvg-name="El Trece" tvg-logo="https://cdn.m3u.cl/logo/1358_El_Trece.png" group-title="Argentina", El Trece | AR
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe (1080p)
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
+
+# ===== Argentina =====
+#EXTINF:-1 tvg-id="CumbiaMix.ar@HD" tvg-logo="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6901dfd41a05195b77301d7b/b306e57e4_Logo-TV-C.png" group-title="Argentina",Cumbia Mix (720p)
+https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Rock_%26_Pop_logo.svg/500px-Rock_%26_Pop_logo.svg.png" group-title="Argentina",Rock & Pop (1080p)
+http://190.128.214.97:64333/play/a032/index.m3u8
+
+# ===== Argentina =====
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3yL5p1K.png" group-title="Argentina",Xtrema Accion
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+
+# ===== Argentina =====
+#EXTINF:-1 tvg-id="PlimPlim.ar@SD" tvg-logo="https://i.imgur.com/MYc8srh.png" group-title="Argentina",Plim Plim (1080p)
+http://200.115.120.1:8000/play/ca091/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MYc8srh.png" group-title="Argentina",Xtrema Cartoons
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@PanregionalHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Argentina",Disney Channel Latin America Panregional HD (1080p)
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: (FHD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="ESPAÑA",ES: (FHD) DAZN 1
 http://31.43.191.125:8080/VIP019951741801835368/6f7b1975f3e1/247
 #EXTINF:-1 tvg-id="" tvg-name="ES: (FHD) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ESPAÑA",ES: (FHD) DAZN F1
