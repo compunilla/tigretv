@@ -1560,3 +1560,293 @@ https://jmp2.uk/plu-639751f81a36b400072b8f5a.m3u8
 #EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" tvg-name="5dd837642c6e9300098ad484" tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png" group-title="📺 Series - Pluto TV",PLUTO.TV SERIES LATINAS
 https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8
 
+
+# ========================================
+# 🇦🇷 PRUEBA
+# ========================================
+
+# ----- Lista AR de Prueba -----
+#EXTM3U
+
+# ================== PRUEBA ==================
+#EXTINF:-1 tvg-id="americatv.ar" tvg-name="ARG| AMERICA TV FHD" tvg-logo="https://lo1.in/arg/amerc.png" group-title="PRUEBA",ARG| AMERICA TV FHD
+http://khdzikjhd.com:80/0164401070/1249194710/30307
+
+#EXTINF:-1 tvg-id="canal9.ar" tvg-name="ARG| CANAL 9 HD" tvg-logo="https://lo1.in/arg/cnl9.png" group-title="PRUEBA",ARG| CANAL 9 HD
+http://khdzikjhd.com:80/0164401070/1249194710/30312
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| EL NUEVE VIVO HD" tvg-logo="https://lo1.in/arg/elnvv.png" group-title="PRUEBA",ARG| EL NUEVE VIVO HD
+http://khdzikjhd.com:80/0164401070/1249194710/30324
+
+#EXTINF:-1 tvg-id="el13.ar" tvg-name="ARG| ELTRECE HD" tvg-logo="https://lo1.in/arg/eltrc.png" group-title="PRUEBA",ARG| ELTRECE HD
+http://khdzikjhd.com:80/0164401070/1249194710/30325
+
+#EXTINF:-1 tvg-id="nettv.ar" tvg-name="ARG| NET TV HD" tvg-logo="https://lo1.in/arg/net.png" group-title="PRUEBA",ARG| NET TV HD
+http://khdzikjhd.com:80/0164401070/1249194710/97984
+
+#EXTINF:-1 tvg-id="telefe.ar" tvg-name="ARG| TELEFE HD" tvg-logo="https://lo1.in/arg/telf.png" group-title="PRUEBA",ARG| TELEFE HD
+http://khdzikjhd.com:80/0164401070/1249194710/30357
+
+#EXTINF:-1 tvg-id="tvpublica.ar" tvg-name="ARG| TELEVISION PUBLICA HD" tvg-logo="https://lo1.in/arg/telvspb.png" group-title="PRUEBA",ARG| TELEVISION PUBLICA HD
+http://khdzikjhd.com:80/0164401070/1249194710/30358
+
+
+# ================== PRUEBA ==================
+#EXTINF:-1 tvg-id="" tvg-name="ARG| A24 HD" tvg-logo="https://lo1.in/arg/a24.png" group-title="PRUEBA",ARG| A24 HD
+http://khdzikjhd.com:80/0164401070/1249194710/30306
+
+#EXTINF:-1 tvg-id="c5n.ar" tvg-name="ARG| C5N HD" tvg-logo="https://lo1.in/arg/c5n.png" group-title="PRUEBA",ARG| C5N HD
+http://khdzikjhd.com:80/0164401070/1249194710/30311
+
+#EXTINF:-1 tvg-id="channel26.ar" tvg-name="ARG| CANAL 26 HD" tvg-logo="https://lo1.in/arg/cnl26.png" group-title="PRUEBA",ARG| CANAL 26 HD
+http://khdzikjhd.com:80/0164401070/1249194710/30313
+
+#EXTINF:-1 tvg-id="cnn.ar" tvg-name="ARG| CNN ESPANOL HD" tvg-logo="https://lo1.in/arg/cnnesp.png" group-title="PRUEBA",ARG| CNN ESPANOL HD
+http://khdzikjhd.com:80/0164401070/1249194710/30317
+
+#EXTINF:-1 tvg-id="cronica.ar" tvg-name="ARG| CRONICA FHD" tvg-logo="https://lo1.in/arg/cronc.png" group-title="PRUEBA",ARG| CRONICA FHD
+http://khdzikjhd.com:80/0164401070/1249194710/30319
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| FOX NEWS HD" tvg-logo="https://lo1.in/arg/fxns.png" group-title="PRUEBA",ARG| FOX NEWS HD
+http://khdzikjhd.com:80/0164401070/1249194710/30332
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| LN+ HD" tvg-logo="https://lo1.in/arg/bln2.png" group-title="PRUEBA",ARG| LN+ HD
+http://khdzikjhd.com:80/0164401070/1249194710/30344
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TN" tvg-logo="https://lo1.in/arg/flg.png" group-title="PRUEBA",ARG| TN
+http://khdzikjhd.com:80/0164401070/1249194710/4879
+
+#EXTINF:-1 tvg-id="tn.ar" tvg-name="ARG| TODO PRUEBA HD" tvg-logo="https://lo1.in/arg/todnt.png" group-title="PRUEBA",ARG| TODO PRUEBA HD
+http://khdzikjhd.com:80/0164401070/1249194710/30359
+
+
+# ================== PRUEBA ==================
+#EXTINF:-1 tvg-id="" tvg-name="ARG| DEPORTV HD" tvg-logo="https://lo1.in/arg/depo.png" group-title="PRUEBA",ARG| DEPORTV HD
+http://khdzikjhd.com:80/0164401070/1249194710/30320
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| DIRECT TV SPORTS" tvg-logo="https://lo1.in/arg/flg.png" group-title="PRUEBA",ARG| DIRECT TV SPORTS
+http://khdzikjhd.com:80/0164401070/1249194710/4885
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| DIRECT TV SPORTS 2" tvg-logo="https://lo1.in/arg/flg.png" group-title="PRUEBA",ARG| DIRECT TV SPORTS 2
+http://khdzikjhd.com:80/0164401070/1249194710/4886
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| DIRECT TV SPORTS PLUS" tvg-logo="https://lo1.in/arg/flg.png" group-title="PRUEBA",ARG| DIRECT TV SPORTS PLUS
+http://khdzikjhd.com:80/0164401070/1249194710/4887
+
+#EXTINF:-1 tvg-id="espn2.ar" tvg-name="ARG| ESPN 2 HD" tvg-logo="https://lo1.in/mex/esp2.png" group-title="PRUEBA",ARG| ESPN 2 HD
+http://khdzikjhd.com:80/0164401070/1249194710/30327
+
+#EXTINF:-1 tvg-id="espn3.ar" tvg-name="ARG| ESPN 3 HD" tvg-logo="https://lo1.in/mex/esp3.png" group-title="PRUEBA",ARG| ESPN 3 HD
+http://khdzikjhd.com:80/0164401070/1249194710/30328
+
+#EXTINF:-1 tvg-id="espnxtra.ar" tvg-name="ARG| ESPN EXTRA HD" tvg-logo="https://lo1.in/arg/espex.png" group-title="PRUEBA",ARG| ESPN EXTRA HD
+http://khdzikjhd.com:80/0164401070/1249194710/30329
+
+#EXTINF:-1 tvg-id="espn.ar" tvg-name="ARG| ESPN HD" tvg-logo="https://lo1.in/mex/esp.png" group-title="PRUEBA",ARG| ESPN HD
+http://khdzikjhd.com:80/0164401070/1249194710/30326
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| ESPN PREMIUM" tvg-logo="https://lo1.in/col/esp.png" group-title="PRUEBA",ARG| ESPN PREMIUM
+http://khdzikjhd.com:80/0164401070/1249194710/4883
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| FOX SPORT" tvg-logo="https://lo1.in/mex/fxsp1.png" group-title="PRUEBA",ARG| FOX SPORT
+http://khdzikjhd.com:80/0164401070/1249194710/4880
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| FOX SPORT 2" tvg-logo="https://lo1.in/mex/fxsp1.png" group-title="PRUEBA",ARG| FOX SPORT 2
+http://khdzikjhd.com:80/0164401070/1249194710/4881
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| FOX SPORT 3" tvg-logo="https://lo1.in/mex/fxsp1.png" group-title="PRUEBA",ARG| FOX SPORT 3
+http://khdzikjhd.com:80/0164401070/1249194710/4882
+
+#EXTINF:-1 tvg-id="elgarage.ar" tvg-name="ARG| GARAGE HD" tvg-logo="https://lo1.in/arg/garg1.png" group-title="PRUEBA",ARG| GARAGE HD
+http://khdzikjhd.com:80/0164401070/1249194710/97988
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| GOLF CHANNEL HD" tvg-logo="https://lo1.in/arg/golfch.png" group-title="PRUEBA",ARG| GOLF CHANNEL HD
+http://khdzikjhd.com:80/0164401070/1249194710/30334
+
+#EXTINF:-1 tvg-id="tntsports.ar" tvg-name="ARG| TNT SPORTS HD" tvg-logo="https://lo1.in/arg/tntsp.png" group-title="PRUEBA",ARG| TNT SPORTS HD
+http://khdzikjhd.com:80/0164401070/1249194710/30362
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TYC" tvg-logo="https://lo1.in/arg/tycsp.png" group-title="PRUEBA",ARG| TYC
+http://khdzikjhd.com:80/0164401070/1249194710/4884
+
+#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="ARG| TYC SPORTS HD" tvg-logo="https://lo1.in/arg/tycsp.png" group-title="PRUEBA",ARG| TYC SPORTS HD
+http://khdzikjhd.com:80/0164401070/1249194710/30365
+
+
+# ================== PRUEBA ==================
+#EXTINF:-1 tvg-id="" tvg-name="ARG| BABY TV HD" tvg-logo="https://lo1.in/arg/bby.png" group-title="PRUEBA",ARG| BABY TV HD
+http://khdzikjhd.com:80/0164401070/1249194710/30310
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CARTOON NETWORK HD" tvg-logo="https://lo1.in/mex/cn0.png" group-title="PRUEBA",ARG| CARTOON NETWORK HD
+http://khdzikjhd.com:80/0164401070/1249194710/30315
+
+#EXTINF:-1 tvg-id="discoverychannel.ar" tvg-name="ARG| DISNEY CHANNEL HD" tvg-logo="https://lo1.in/arg/dsych.png" group-title="PRUEBA",ARG| DISNEY CHANNEL HD
+http://khdzikjhd.com:80/0164401070/1249194710/30321
+
+#EXTINF:-1 tvg-id="disneyjunior.ar" tvg-name="ARG| DISNEY JUNIOR HD" tvg-logo="https://lo1.in/arg/dsyj.png" group-title="PRUEBA",ARG| DISNEY JUNIOR HD
+http://khdzikjhd.com:80/0164401070/1249194710/30322
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| NICK JUNIOR HD" tvg-logo="https://lo1.in/it/nk1.png" group-title="PRUEBA",ARG| NICK JUNIOR HD
+http://khdzikjhd.com:80/0164401070/1249194710/30349
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| NICKELODEON HD" tvg-logo="https://lo1.in/arg/nickldn.png" group-title="PRUEBA",ARG| NICKELODEON HD
+http://khdzikjhd.com:80/0164401070/1249194710/30350
+
+#EXTINF:-1 tvg-id="pakapaka.ar" tvg-name="ARG| PAKA PAKA SD" tvg-logo="https://lo1.in/arg/pakap.png" group-title="PRUEBA",ARG| PAKA PAKA SD
+http://khdzikjhd.com:80/0164401070/1249194710/30351
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TEEN NICK HD" tvg-logo="https://lo1.in/arg/nick2.png" group-title="PRUEBA",ARG| TEEN NICK HD
+http://khdzikjhd.com:80/0164401070/1249194710/97983
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TOONCAST HD" tvg-logo="https://lo1.in/arg/tonca.png" group-title="PRUEBA",ARG| TOONCAST HD
+http://khdzikjhd.com:80/0164401070/1249194710/30363
+
+
+# ================== PRUEBA ==================
+#EXTINF:-1 tvg-id="argentinisima.ar" tvg-name="ARG| ARGENTINISIMA HD" tvg-logo="https://lo1.in/arg/argesm.png" group-title="PRUEBA",ARG| ARGENTINISIMA HD
+http://khdzikjhd.com:80/0164401070/1249194710/30308
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| HTV HD" tvg-logo="https://lo1.in/arg/htv.png" group-title="PRUEBA",ARG| HTV HD
+http://khdzikjhd.com:80/0164401070/1249194710/30342
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| MTV HD" tvg-logo="https://lo1.in/arg/mtv.png" group-title="PRUEBA",ARG| MTV HD
+http://khdzikjhd.com:80/0164401070/1249194710/30345
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| MUSIC TOP" tvg-logo="https://lo1.in/arg/muchms.png" group-title="PRUEBA",ARG| MUSIC TOP
+http://khdzikjhd.com:80/0164401070/1249194710/30347
+
+
+# ================== PRUEBA ==================
+#EXTINF:-1 tvg-id="aandemundo.ar" tvg-name="ARG| A&E FHD" tvg-logo="https://lo1.in/arg/aae.png" group-title="PRUEBA",ARG| A&E FHD
+http://khdzikjhd.com:80/0164401070/1249194710/30305
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| AXN HD" tvg-logo="https://lo1.in/arg/axn.png" group-title="PRUEBA",ARG| AXN HD
+http://khdzikjhd.com:80/0164401070/1249194710/30309
+
+#EXTINF:-1 tvg-id="cine.ar" tvg-name="ARG| CINE AR HD" tvg-logo="https://lo1.in/arg/cine.png" group-title="PRUEBA",ARG| CINE AR HD
+http://khdzikjhd.com:80/0164401070/1249194710/30316
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| EUROPA EUROPA HD" tvg-logo="https://lo1.in/arg/eureu0.png" group-title="PRUEBA",ARG| EUROPA EUROPA HD
+http://khdzikjhd.com:80/0164401070/1249194710/30330
+
+#EXTINF:-1 tvg-id="fx.ar" tvg-name="ARG| FX HD" tvg-logo="https://lo1.in/arg/fx.png" group-title="PRUEBA",ARG| FX HD
+http://khdzikjhd.com:80/0164401070/1249194710/97989
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| HBO 2 HD" tvg-logo="https://lo1.in/arg/hbo2.png" group-title="PRUEBA",ARG| HBO 2 HD
+http://khdzikjhd.com:80/0164401070/1249194710/30337
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| HBO FAMILY HD" tvg-logo="https://lo1.in/arg/hbofm.png" group-title="PRUEBA",ARG| HBO FAMILY HD
+http://khdzikjhd.com:80/0164401070/1249194710/30338
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| HBO HD" tvg-logo="https://lo1.in/arg/hbo.png" group-title="PRUEBA",ARG| HBO HD
+http://khdzikjhd.com:80/0164401070/1249194710/30339
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| HBO MUNDI HD" tvg-logo="https://lo1.in/arg/hbom.png" group-title="PRUEBA",ARG| HBO MUNDI HD
+http://khdzikjhd.com:80/0164401070/1249194710/97987
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| HBO POP HD" tvg-logo="https://lo1.in/arg/hbop.png" group-title="PRUEBA",ARG| HBO POP HD
+http://khdzikjhd.com:80/0164401070/1249194710/97986
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| HBO SIGNATURE HD" tvg-logo="https://lo1.in/arg/hbosig.png" group-title="PRUEBA",ARG| HBO SIGNATURE HD
+http://khdzikjhd.com:80/0164401070/1249194710/30340
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| HBO XTREME HD" tvg-logo="https://lo1.in/arg/hboxtr.png" group-title="PRUEBA",ARG| HBO XTREME HD
+http://khdzikjhd.com:80/0164401070/1249194710/97985
+
+#EXTINF:-1 tvg-id="lifetime.ar" tvg-name="ARG| LIFETIME HD" tvg-logo="https://lo1.in/arg/lftm.png" group-title="PRUEBA",ARG| LIFETIME HD
+http://khdzikjhd.com:80/0164401070/1249194710/30343
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| PARAMOUNT HD" tvg-logo="https://lo1.in/arg/param.png" group-title="PRUEBA",ARG| PARAMOUNT HD
+http://khdzikjhd.com:80/0164401070/1249194710/30352
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| SONY HD" tvg-logo="https://lo1.in/arg/sny.png" group-title="PRUEBA",ARG| SONY HD
+http://khdzikjhd.com:80/0164401070/1249194710/30354
+
+#EXTINF:-1 tvg-id="studiouniversal.ar" tvg-name="ARG| STUDIO UNIVERSAL HD" tvg-logo="https://lo1.in/arg/studuni.png" group-title="PRUEBA",ARG| STUDIO UNIVERSAL HD
+http://khdzikjhd.com:80/0164401070/1249194710/30355
+
+#EXTINF:-1 tvg-id="tcm.ar" tvg-name="ARG| TCM HD" tvg-logo="https://lo1.in/arg/tcm.png" group-title="PRUEBA",ARG| TCM HD
+http://khdzikjhd.com:80/0164401070/1249194710/30356
+
+#EXTINF:-1 tvg-id="tnt.ar" tvg-name="ARG| TNT HD" tvg-logo="https://lo1.in/arg/tnt.png" group-title="PRUEBA",ARG| TNT HD
+http://khdzikjhd.com:80/0164401070/1249194710/30360
+
+#EXTINF:-1 tvg-id="tntseries.ar" tvg-name="ARG| TNT SERIES HD" tvg-logo="https://lo1.in/arg/tnts1.png" group-title="PRUEBA",ARG| TNT SERIES HD
+http://khdzikjhd.com:80/0164401070/1249194710/30361
+
+#EXTINF:-1 tvg-id="universalchannel.ar" tvg-name="ARG| UNIVERSAL HD" tvg-logo="https://lo1.in/arg/unive.png" group-title="PRUEBA",ARG| UNIVERSAL HD
+http://khdzikjhd.com:80/0164401070/1249194710/30366
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| VOLVER HD" tvg-logo="https://lo1.in/arg/volv0.png" group-title="PRUEBA",ARG| VOLVER HD
+http://khdzikjhd.com:80/0164401070/1249194710/30367
+
+#EXTINF:-1 tvg-id="warnerchannel.ar" tvg-name="ARG| WARNER HD" tvg-logo="https://lo1.in/arg/warn.png" group-title="PRUEBA",ARG| WARNER HD
+http://khdzikjhd.com:80/0164401070/1249194710/30368
+
+
+# ================== PRUEBA ==================
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CHACRA TV HD" tvg-logo="https://lo1.in/arg/chac.png" group-title="PRUEBA",ARG| CHACRA TV HD
+http://khdzikjhd.com:80/0164401070/1249194710/124277
+
+#EXTINF:-1 tvg-id="discoverychannel.ar" tvg-name="ARG| DISCOVERY CHANNEL HD" tvg-logo="https://lo1.in/arg/disha.png" group-title="PRUEBA",ARG| DISCOVERY CHANNEL HD
+http://khdzikjhd.com:80/0164401070/1249194710/97993
+
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.ar" tvg-name="ARG| DISCOVERY H&amp;H HD" tvg-logo="https://lo1.in/arg/hhh.png" group-title="PRUEBA",ARG| DISCOVERY H&amp;H HD
+http://khdzikjhd.com:80/0164401070/1249194710/97992
+
+#EXTINF:-1 tvg-id="discoveryworldhd.ar" tvg-name="ARG| DISCOVERY WORLD HD" tvg-logo="https://lo1.in/arg/diswrl.png" group-title="PRUEBA",ARG| DISCOVERY WORLD HD
+http://khdzikjhd.com:80/0164401070/1249194710/97991
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| FILM & ARTS HD" tvg-logo="https://lo1.in/arg/fart.png" group-title="PRUEBA",ARG| FILM & ARTS HD
+http://khdzikjhd.com:80/0164401070/1249194710/30331
+
+#EXTINF:-1 tvg-id="canalelgourmet.ar" tvg-name="ARG| GOURMET HD" tvg-logo="https://lo1.in/arg/gourm.png" group-title="PRUEBA",ARG| GOURMET HD
+http://khdzikjhd.com:80/0164401070/1249194710/30335
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| H2 HD" tvg-logo="https://lo1.in/arg/h2.png" group-title="PRUEBA",ARG| H2 HD
+http://khdzikjhd.com:80/0164401070/1249194710/30336
+
+#EXTINF:-1 tvg-id="historychannel.ar" tvg-name="ARG| HISTORY HD" tvg-logo="https://lo1.in/arg/hist.png" group-title="PRUEBA",ARG| HISTORY HD
+http://khdzikjhd.com:80/0164401070/1249194710/30341
+
+#EXTINF:-1 tvg-id="investigationdiscovery.ar" tvg-name="ARG| INVESTIGATION DISCOVERY HD" tvg-logo="https://lo1.in/arg/invdisc.png" group-title="PRUEBA",ARG| INVESTIGATION DISCOVERY HD
+http://khdzikjhd.com:80/0164401070/1249194710/97990
+
+#EXTINF:-1 tvg-id="nationalgeographic.ar" tvg-name="ARG| NAT GEO HD" tvg-logo="https://lo1.in/arg/ntgeo.png" group-title="PRUEBA",ARG| NAT GEO HD
+http://khdzikjhd.com:80/0164401070/1249194710/30348
+
+#EXTINF:-1 tvg-id="elrural.ar" tvg-name="ARG| RURAL HD" tvg-logo="https://lo1.in/arg/rural.png" group-title="PRUEBA",ARG| RURAL HD
+http://khdzikjhd.com:80/0164401070/1249194710/30353
+
+
+# ================== PRUEBA ==================
+#EXTINF:-1 tvg-id="" tvg-name="ARG| COMEDY CENTRAL HD" tvg-logo="https://lo1.in/arg/cmdcen.png" group-title="PRUEBA",ARG| COMEDY CENTRAL HD
+http://khdzikjhd.com:80/0164401070/1249194710/30318
+
+#EXTINF:-1 tvg-id="eentertainment.ar" tvg-name="ARG| E! HD" tvg-logo="https://lo1.in/arg/e.png" group-title="PRUEBA",ARG| E! HD
+http://khdzikjhd.com:80/0164401070/1249194710/30323
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TRUTV HD" tvg-logo="https://lo1.in/arg/trutv.png" group-title="PRUEBA",ARG| TRUTV HD
+http://khdzikjhd.com:80/0164401070/1249194710/30364
+
+
+# ================== PRUEBA ==================
+#EXTINF:-1 tvg-id="canalorbe21.ar" tvg-name="ARG| CANAL ORBE 21 HD" tvg-logo="https://lo1.in/arg/cnlorb.png" group-title="PRUEBA",ARG| CANAL ORBE 21 HD
+http://khdzikjhd.com:80/0164401070/1249194710/97994
+
+
+# ================== PRUEBA ==================
+#EXTINF:-1 tvg-id="" tvg-name="ARG| 5RTV SANTA FE HD" tvg-logo="https://lo1.in/arg/5rtv.png" group-title="PRUEBA",ARG| 5RTV SANTA FE HD
+http://khdzikjhd.com:80/0164401070/1249194710/124280
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| 5TV CORRIENTES HD" tvg-logo="https://lo1.in/arg/5tvcor.png" group-title="PRUEBA",ARG| 5TV CORRIENTES HD
+http://khdzikjhd.com:80/0164401070/1249194710/124279
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL 3 PINAMAR HD" tvg-logo="https://lo1.in/arg/cnl3pn.png" group-title="PRUEBA",ARG| CANAL 3 PINAMAR HD
+http://khdzikjhd.com:80/0164401070/1249194710/124278
+
+#EXTINF:-1 tvg-id="canaldelaciudad.ar" tvg-name="ARG| CANAL DE LA CIUDAD HD" tvg-logo="https://lo1.in/arg/cnlciu.png" group-title="PRUEBA",ARG| CANAL DE LA CIUDAD HD
+http://khdzikjhd.com:80/0164401070/1249194710/30314
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TELENORD CORRIENTES HD" tvg-logo="https://lo1.in/arg/teldco.png" group-title="PRUEBA",ARG| TELENORD CORRIENTES HD
+http://khdzikjhd.com:80/0164401070/1249194710/124276
