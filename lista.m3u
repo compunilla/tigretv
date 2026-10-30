@@ -1,5 +1,7 @@
 #EXTM3U
 # ================== 🇦🇷 Deportes ==================
+#EXTINF:-1 tvg-id="" tvg-name="DEP• TNT SPORTS AR (HD) »1«" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="🇦🇷 Deportes",TNT Sport Premium
+http://myultratv.com:8080/56926260279zp/230326up/459
 
 #EXTINF:-1 tvg-id="DeporTV.ar@SD" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="🇦🇷 Deportes",DeporTV (1080p)
 http://158.172.155.130:8000/play/a09y/index.m3u8
