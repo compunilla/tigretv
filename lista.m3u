@@ -1,8 +1,5 @@
 #EXTM3U
 # ================== 🇦🇷 Deportes ==================
-#EXTINF:-1 tvg-id="AandE Network Canada" tvg-name="TNT SPORTS  »2«" tvg-logo="https://i.postimg.cc/J0MtHDy9/TNT-Sports-2023-2.png" group-title="🇦🇷 Deportes",TNT Sports Premium
-http://mobeeplay.site:8080/live/MaradiagajuanC84674/d9TzxzyZCP/417209.ts
-
 #EXTINF:-1 tvg-id="DeporTV.ar@SD" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="🇦🇷 Deportes",DeporTV (1080p)
 http://158.172.155.130:8000/play/a09y/index.m3u8
 
