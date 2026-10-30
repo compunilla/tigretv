@@ -1,112 +1,112 @@
 #EXTM3U
 
 # ========================================
-# 🇦🇷 ARGENTINA - ORDENADO AL PRINCIPIO
+# 🇦🇷 ARGENTINA
 # ========================================
 
-# ----- ARGENTINA - DEPORTES (12 canales) -----
-#EXTINF:-1 tvg-id="ESPN.ar@Default" tvg-logo="https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/espn-network-logo.png" group-title="🇦🇷 Argentina - Deportes", ESPN
+# ----- Deportes AR (12 canales) -----
+#EXTINF:-1 tvg-id="ESPN.ar@Default" tvg-logo="https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/espn-network-logo.png" group-title="Deportes AR",ESPN
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/89.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="🇦🇷 Argentina - Deportes",ESPN (1080p)
+#EXTINF:-1 tvg-id="ESPN.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Deportes AR",ESPN (1080p)
 http://181.78.197.59:8000/play/a07z/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN2.ar@Default" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="🇦🇷 Argentina - Deportes", ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.ar@Default" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="Deportes AR",ESPN 2
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/88.m3u8
 
-#EXTINF:-1 tvg-id="ESPN3.ar@Default" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="🇦🇷 Argentina - Deportes", ESPN 3
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/90.m3u8
-
-#EXTINF:-1 tvg-id="ESPN4.ar@Default" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="🇦🇷 Argentina - Deportes", ESPN 4
+#EXTINF:-1 tvg-id="ESPN4.ar@Default" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="Deportes AR",ESPN 4
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/91.m3u8
 
-#EXTINF:-1 tvg-id="ESPN4.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="🇦🇷 Argentina - Deportes",ESPN 4 (1080p)
+#EXTINF:-1 tvg-id="ESPN4.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Deportes AR",ESPN 4 (1080p)
 http://181.78.197.59:8000/play/a07n/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN5.ar@Default" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86787_dark_360w_270h.png" group-title="🇦🇷 Argentina - Deportes", ESPN 5
+#EXTINF:-1 tvg-id="ESPN5.ar@Default" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86787_dark_360w_270h.png" group-title="Deportes AR",ESPN 5
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/92.m3u8
 
-#EXTINF:-1 tvg-id="ESPN6.ar@Default" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99633_dark_360w_270h.png" group-title="🇦🇷 Argentina - Deportes", ESPN 6
+#EXTINF:-1 tvg-id="ESPN6.ar@Default" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99633_dark_360w_270h.png" group-title="Deportes AR",ESPN 6
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/25.m3u8
 
-#EXTINF:-1 tvg-id="ESPN7.ar@Default" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91513_dark_360w_270h.png" group-title="🇦🇷 Argentina - Deportes", ESPN 7
+#EXTINF:-1 tvg-id="ESPN7.ar@Default" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91513_dark_360w_270h.png" group-title="Deportes AR",ESPN 7
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/26.m3u8
 
-#EXTINF:-1 tvg-id="ESPNPremium.ar@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="🇦🇷 Argentina - Deportes",ESPN Premium HD (1080p)
+#EXTINF:-1 tvg-id="ESPNPremium.ar@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="Deportes AR",ESPN Premium HD (1080p)
 http://190.128.214.97:64333/play/a02i/index.m3u8
 
-#EXTINF:-1 tvg-id="FIFAPlus.uk@HispanicAmerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="🇦🇷 Argentina - Deportes",FIFA+ Hispanic America (720p)
+#EXTINF:-1 tvg-id="FIFAPlus.uk@HispanicAmerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Deportes AR",FIFA+ Hispanic America (720p)
 https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
 
-#EXTINF:57 group-title="🇦🇷 Argentina - Deportes",TyC Sports (1080p)
+#EXTINF:57 group-title="Deportes AR",TyC Sports (1080p)
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
-# ----- ARGENTINA - AIRE Y NOTICIAS (11 canales) -----
-#EXTINF:-1 tvg-id="5tv.ar@SD" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="🇦🇷 Argentina - Aire y Noticias",5tv
+# ----- Noticias AR (11 canales) -----
+
+#EXTINF:-1 tvg-id="5tv.ar@SD" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="Noticias AR",5tv
 https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AmericaTV.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="🇦🇷 Argentina - Aire y Noticias",America TV
+#EXTINF:-1 tvg-id="AmericaTV.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Noticias AR",America TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8QmQf3r.png" group-title="🇦🇷 Argentina - Aire y Noticias",Cadena103.TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8QmQf3r.png" group-title="Noticias AR",Cadena103.TV
 https://streamlov.alsolnet.com/cadena103/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal26.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" group-title="🇦🇷 Argentina - Aire y Noticias",Canal 26 (Argentina) (1080p)
+#EXTINF:-1 tvg-id="Canal26.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" group-title="Noticias AR",Canal 26 (Argentina) (1080p)
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Canal_9_Logo.svg/500px-Canal_9_Logo.svg.png" group-title="🇦🇷 Argentina - Aire y Noticias",Canal 9 Resistencia (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Canal_9_Logo.svg/500px-Canal_9_Logo.svg.png" group-title="Noticias AR",Canal 9 Resistencia (720p)
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalE.ar@Locales" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" group-title="🇦🇷 Argentina - Aire y Noticias", CANAL E
+#EXTINF:-1 tvg-id="CanalE.ar@Locales" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" group-title="Noticias AR", CANAL E
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HJkSz2U.png" group-title="🇦🇷 Argentina - Aire y Noticias",Canal TDC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HJkSz2U.png" group-title="Noticias AR",Canal TDC
 https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
 
-#EXTINF:-1 tvg-id="Canal26.ar@Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="🇦🇷 Argentina - Aire y Noticias", CANAL26 INTERNACIONAL
+#EXTINF:-1 tvg-id="Canal26.ar@Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="Noticias AR", CANAL26 INTERNACIONAL
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/12.m3u8
 
-#EXTINF:-1 tvg-id="CiudadMagica.ar@SD" tvg-logo="https://i.imgur.com/HJkSz2U.png" group-title="🇦🇷 Argentina - Aire y Noticias",Ciudad Magica (720p)
+#EXTINF:-1 tvg-id="CiudadMagica.ar@SD" tvg-logo="https://i.imgur.com/HJkSz2U.png" group-title="Noticias AR",Ciudad Magica (720p)
 https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1358" tvg-name="El Trece" tvg-logo="https://cdn.m3u.cl/logo/1358_El_Trece.png" group-title="🇦🇷 Argentina - Aire y Noticias", El Trece | AR
+#EXTINF:-1 tvg-id="1358" tvg-name="El Trece" tvg-logo="https://cdn.m3u.cl/logo/1358_El_Trece.png" group-title="Noticias AR", El Trece | AR
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="🇦🇷 Argentina - Aire y Noticias",Telefe (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Noticias AR",Telefe (1080p)
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 
-# ----- ARGENTINA - INTERNACIONAL (3 canales) -----
-#EXTINF:-1 tvg-id="ParaguayTV.ar@Internacional" tvg-logo="https://i.imgur.com/fkK7i8g.png" group-title="🇦🇷 Argentina - Internacional", PARAGUAY TV
+#EXTINF:-1 tvg-id="ParaguayTV.ar@Internacional" tvg-logo="https://i.imgur.com/fkK7i8g.png" group-title="Noticias AR",5tv
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 
-#EXTINF:-1 tvg-id="Telefe.ar@Internacional" tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="🇦🇷 Argentina - Internacional", Telefe [Internacional]
+#EXTINF:-1 tvg-id="Telefe.ar@Internacional" tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Noticias AR",Telefe [Internacional]
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/81.m3u8
 
-#EXTINF:-1 tvg-id="Trece.ar@Internacional" tvg-logo="https://i.imgur.com/Vo6prbh.png" group-title="🇦🇷 Argentina - Internacional", TR3CE AR Internacional
+#EXTINF:-1 tvg-id="Trece.ar@Internacional" tvg-logo="https://i.imgur.com/Vo6prbh.png" group-title="Noticias AR",Trece AR Internacional
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/23.m3u8
 
-# ----- ARGENTINA - MUSICA E INFANTIL (6 canales) -----
-#EXTINF:-1 tvg-id="CumbiaMix.ar@HD" tvg-logo="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6901dfd41a05195b77301d7b/b306e57e4_Logo-TV-C.png" group-title="🇦🇷 Argentina - Musica e Infantil",Cumbia Mix (720p)
-https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
-
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@PanregionalHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="🇦🇷 Argentina - Musica e Infantil",Disney Channel Latin America Panregional HD (1080p)
-#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
-http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
-
-#EXTINF:-1 tvg-id="PlimPlim.ar@SD" tvg-logo="https://i.imgur.com/MYc8srh.png" group-title="🇦🇷 Argentina - Musica e Infantil",Plim Plim (1080p)
-http://200.115.120.1:8000/play/ca091/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Rock_%26_Pop_logo.svg/500px-Rock_%26_Pop_logo.svg.png" group-title="🇦🇷 Argentina - Musica e Infantil",Rock & Pop (1080p)
-http://190.128.214.97:64333/play/a032/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3yL5p1K.png" group-title="🇦🇷 Argentina - Musica e Infantil",Xtrema Accion
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3yL5p1K.png" group-title="Noticias AR",Xtrema Accion
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MYc8srh.png" group-title="🇦🇷 Argentina - Musica e Infantil",Xtrema Cartoons
+# ----- INFANTIL (3 canales) -----
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@PanregionalHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Infantil",Disney Channel Latin America Panregional HD (1080p)
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+
+#EXTINF:-1 tvg-id="PlimPlim.ar@SD" tvg-logo="https://i.imgur.com/MYc8srh.png" group-title="Infantil",Plim Plim (1080p)
+http://200.115.120.1:8000/play/ca091/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MYc8srh.png" group-title="Infantil",Xtrema Cartoons
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+
+# ----- MUSICA (2 canales) -----
+
+#EXTINF:-1 tvg-id="CumbiaMix.ar@HD" tvg-logo="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6901dfd41a05195b77301d7b/b306e57e4_Logo-TV-C.png" group-title="Musica",Cumbia Mix (720p)
+https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Rock_%26_Pop_logo.svg/500px-Rock_%26_Pop_logo.svg.png" group-title="Musica",Rock & Pop (1080p)
+http://190.128.214.97:64333/play/a032/index.m3u8
 
 # ========================================
 # 🇵🇾 PARAGUAY
