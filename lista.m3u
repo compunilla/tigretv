@@ -1,5 +1,8 @@
 #EXTM3U
 # ================== 🇦🇷 Deportes ==================
+#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-name="ARG: TNT SPORTS PREMIUM FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC9oe3edDiex4gNlSNsnEGueETMFDm8Pm9OA&s" group-title="ARGENTINA",ARG: TNT SPORTS PREMIUM FHD
+http://dnsvod.com:8080/Lucas0408/wEr3GT6nYk/165664.m3u8
+
 #EXTINF:-1 tvg-id="DeporTV.ar@SD" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="🇦🇷 Deportes",DeporTV (1080p)
 http://158.172.155.130:8000/play/a09y/index.m3u8
 
