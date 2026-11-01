@@ -1,5 +1,8 @@
 #EXTM3U
 # ================== 🇦🇷 Deportes ==================
+#EXTINF:-1 xm-ott="{ID}" tvg-id="fox.sports.mx" tvg-name="DEP | FOX SPORTS 1 ARG" tvg-logo="http://i.ibb.co/grbk6p1/FOX-Sports.png" group-title="DEPORTES",DEP | FOX SPORTS 1 ARG
+http://xdplus.site:8880/live/CarlosG/ZZTPD/158518.ts
+
 #EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="🇦🇷 Deportes",TyC Sports (1080p)
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
